@@ -94,5 +94,5 @@ Every extra Eeveelution except Evereon can also spawn in the wild. They're **ult
 ***
 
 {% hint style="warning" %}
-⚠️ **Battle bans:** Evereon is banned in gym battles, the Battle Tower and Wild Gyms. Aereon is banned in gym battles. Type `/bans` in game to see the full gym and Battle Tower ban lists.
+⚠️ **Battle bans:** Evereon is banned in gym battles, the Battle Tower and GO Gyms. Aereon is banned in gym battles. Type `/bans` in game to see the full gym and Battle Tower ban lists.
 {% endhint %}

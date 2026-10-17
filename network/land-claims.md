@@ -107,5 +107,5 @@ Type `/flan list` to see all of your claims and their coordinates.
 ***
 
 {% hint style="warning" %}
-⚠️ You can't claim land within 16 blocks of a Wild Gym, and building around a Wild Gym to hide it is against the [rules](../getting-started/rules.md).
+⚠️ You can't claim land within 16 blocks of a [GO Gym](../battling/go-gyms.md), and building around a GO Gym to hide it is against the [rules](../getting-started/rules.md).
 {% endhint %}

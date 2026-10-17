@@ -36,9 +36,16 @@
 * [Wonder Trade](pokemon/wonder-trade.md)
 * [PokéHunt](pokemon/pokehunt.md)
 
+## ⚔️ Battling
+
+* [GO Gyms](battling/go-gyms.md)
+* [Nuzlocke Challenge](battling/nuzlocke.md)
+
 ## 🎉 Events
 
 * [Seven Star Raids](events/seven-star-raids.md)
+* [Tournaments](events/tournaments.md)
+* [Build Competitions](events/build-competitions.md)
 
 ## ⌨️ Commands
 

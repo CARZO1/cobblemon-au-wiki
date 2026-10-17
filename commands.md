@@ -94,13 +94,13 @@ Your claim tool is the **golden hoe** from the Starter kit. See the [FAQ](gettin
 | `/champion` | See who holds each Champion title | Both |
 | `/champion challenge <region> [singles\|doubles]` | Challenge a region's Champion | Both |
 | `/champion accept` / `decline` / `ready` | Answer a title challenge, or skip the wait between games | Both |
-| `/teams` | Join a Wild Gym team | Both |
+| `/teams` | Join a [GO Gym](battling/go-gyms.md) team | Both |
 | `/teams leaderboard` | See how the teams are going | Both |
 | `/bp` | Check your Battle Points | Survival |
 | `/bp_shop` | Spend Battle Points | Survival |
 | `/bt_info` | How the Battle Tower works | Survival |
 | `/bt_top [singles\|doubles]` | Battle Tower leaderboard | Survival |
-| `/nuzlocke` | The weekly Nuzlocke Challenge | Hub |
+| `/nuzlocke` | The weekly [Nuzlocke Challenge](battling/nuzlocke.md) | Hub |
 | `/bans` | See what's banned in gym battles and the Battle Tower | Both |
 | `/pvp` | Turn player-vs-player combat on or off (off by default) | Both |
 
