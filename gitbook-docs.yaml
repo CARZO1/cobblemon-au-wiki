@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Cobblemon AU Wiki
+  structure:
+    - type: space
+      key: space-wiki-en
+      title: Cobblemon AU Wiki
+      path: wiki
+      default: true
+      content:
+        directory: ./
+        language: en
