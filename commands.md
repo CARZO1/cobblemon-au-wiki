@@ -75,6 +75,7 @@ Your claim tool is the **golden hoe** from the Starter kit. See the [FAQ](gettin
 | `/combo` | Check your current catch chain | Both |
 | `/dexrewards` | Claim Pokédex rewards | Both |
 | `/pokehunt` | See this round's Wanted Pokémon | Both |
+| `/legendperfume` | Check your active [Legendary or Mythical Perfume](pokemon/legendary-perfumes.md) | Both |
 | `/pwiki <pokemon>` | Open the Pokémon wiki: stats, types, spawns, evolutions and moves | Both |
 
 ***
@@ -86,7 +87,7 @@ Your claim tool is the **golden hoe** from the Starter kit. See the [FAQ](gettin
 | `/challenge <player>` | Challenge a nearby player to a friendly battle | Both |
 | `/wager <player> <singles\|doubles\|triples> <amount>` | Challenge a player to a battle for money | Both |
 | `/wager accept` / `deny` / `cancel` | Answer or cancel a wager | Both |
-| `/ranked` | Open the Ranked Battles menu | Both |
+| `/ranked` | Open the [Ranked Battles](battling/ranked.md) menu | Both |
 | `/casual` | Queue for casual (unranked) battles | Both |
 | `/glory` | Check your Glory balance | Both |
 | `/glory history` / `/glory top` | Your Glory history, and the Glory leaderboard | Both |

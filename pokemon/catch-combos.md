@@ -2,7 +2,8 @@
 description: Catch, battle or fish the same Pokémon over and over to boost your shiny, IV and hidden ability odds.
 ---
 
-<!-- Sources: network/_upload/{hub,survival}/config/unchained/{spawn,capture,fish,resurrection,egg,snack}/*.json (thresholds, enabled, breakStreakOnSuccess, lockToPlayer, marbles),
+<!-- Re-checked 18 Oct against test-server/config/unchained/** (updated 17 Oct, identical to staging) and test-server/config/unchained.json (boostActivatedHabitatSpawns true).
+Sources: network/_upload/{hub,survival}/config/unchained/{spawn,capture,fish,resurrection,egg,snack}/*.json (thresholds, enabled, breakStreakOnSuccess, lockToPlayer, marbles),
 network/_upload/hub/config/cobblemon/main.json (shinyRate 32768), test-server/config/combosync.json (spawn bias; spawn section identical to the survival 1.7.3 mirror),
 dev/combocmd ComboCmd.java (/combo shows catch + fishing chains). Shiny odds = (1 + bonus) / 32768. Egg, snack, shiny-on-capture and spawn IV/HA boosters are disabled. -->
 
@@ -51,7 +52,6 @@ Your **catch combo and KO combo are added together**. The bigger the total, the 
 
 * A boosted shiny is **reserved for you**, so other players can't steal it.
 * You'll get a message in chat when your combo pays off.
-
 {% hint style="warning" %}
 ⚠️ When a combo-boosted shiny spawns, **both your catch combo and your KO combo go back to zero**. A shiny you find by normal luck doesn't reset anything.
 {% endhint %}

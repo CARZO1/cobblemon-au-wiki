@@ -3,7 +3,7 @@ description: Giant, tougher Pokémon with better drops, and the cards that chang
 ---
 
 <!-- Sources: network/_upload/{hub,survival}/config/cobblemon/spawning/best-spawner-config.json (boss bucket 0.15 = alpha herds), network/_upload/{hub,survival}/config/cobblemon/main.json (fossilMachineAlphaChance 800, honeySlatherAlphaChance 4000),
-network/_upload/survival/openloader-1.8/starf_berry_shiny_nerf.zip (Hopo Berry alpha_chance), network/_upload/{hub,survival}/openloader-1.8/alpha_drops.zip (killed/alpha_megastone.json: 7 empty : 1 roll of random_megastone.json, 92 stones; candy tables),
+network/_upload/survival/openloader-1.8/starf_berry_shiny_nerf.zip (Hopo Berry alpha_chance), network/_upload/{hub,survival}/openloader-1.8/alpha_drops.zip (killed/alpha_megastone.json: 4 empty : 1 roll of random_megastone.json = 1 in 5 since 18 Oct, 92 stones; candy tables),
 dev/alphacard + dev/minicard (behaviour), network/_upload/hub/config/rankedrewards/shop.json (Alpha/Mini Card 10,000 Glory, all servers), network/_upload/survival/config/skiesguis/guis/bt_shop3.json (Alpha Card in BP shop),
 network/_upload/{hub,survival}/config/pebbles-crate/crates/team_rocket.json, network/_upload/hub/config/nuzlocke/config.json, network/_upload/{hub,survival}/config/pokehunt/config.json (weekly alpha board). -->
 
@@ -34,7 +34,7 @@ Knock out a wild Alpha and you can get:
 
 | Drop | Chance |
 | --- | --- |
-| 💎 **A random Mega Stone** | 1 in 8. It can be any of 92 Mega Stones, including Mewtwonite X and Y, Latiasite, Latiosite, Darkranite, Heatranite and Zygardite. |
+| 💎 **A random Mega Stone** | 1 in 5. It can be any of 92 Mega Stones, including Mewtwonite X and Y, Latiasite, Latiosite, Darkranite, Heatranite and Zygardite. |
 | 🍬 **EXP Candies** | Higher level Alphas drop bigger candies, and the strongest can drop Rare Candies |
 | 💪 **Stat candies** | From higher level Alphas |
 | 💠 **Type Gems** | Matching the Alpha's type |

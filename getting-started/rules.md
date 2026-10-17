@@ -2,24 +2,25 @@
 description: The Cobblemon AU server rules.
 ---
 
-<!-- Source: network/_upload/{hub,survival}/config/commandaliases/rules.json (the in-game /rules list). Keep this page in step with that file. -->
+<!-- Source: owner's full rules list (18 Oct 2026). Numbered 1 to 20 here; the owner's copy used 16 twice.
+The in-game /rules alias (network/_upload/{hub,survival}/config/commandaliases/rules.json) still has the older 19-rule list without the ranked win-trading rule. -->
 
 # 📜 Server rules
 
 {% hint style="info" %}
-<p align="center">These are the same rules you see in game with <code>/rules</code>. Breaking them can lead to warnings or bans.</p>
+<p align="center">Everyone on Cobblemon AU follows these rules. Breaking them can lead to warnings, mutes or bans.</p>
 {% endhint %}
 
 ***
 
-## 🤝 Respect & Community
+## 🌐 Respect & Community
 
-1. Be respectful. Report issues to staff, don't retaliate.
+1. Be respectful. Report issues to staff and don't retaliate.
 2. No discrimination of any kind.
-3. No spam or flooding the chat.
+3. No spam or flooding chat.
 4. No sexual or NSFW content, on the server or in Discord.
 5. No advertising.
-6. Don't be a sexual predator, or harbour one. If you feel threatened or see anything suspicious, contact the Owner or an Admin or Moderator.
+6. Don't be a sexual predator, and don't harbour any. If you see anything strange or feel threatened, contact the Owner or an Admin or Moderator.
 
 ***
 
@@ -31,23 +32,24 @@ description: The Cobblemon AU server rules.
 10. No Pokémon spawn platforms.
 11. Respect player claims and builds.
 12. Do not attempt to hide or build around GO Gyms.
+13. Do not win trade in Ranked.
 
 ***
 
-## 🗺️ Warps & GTS
+## 📦 Warps & GTS
 
-13. No multiple warps to the same area.
-14. Don't name warps similar to server warps.
-15. Don't rename Pokémon to advertise on the GTS.
+14. No multiple warps to the same area.
+15. Don't name warps similar to server warps.
+16. Don't rename Pokémon to advertise on the GTS.
 
 ***
 
 ## 💰 Economy & Accounts
 
-16. No real-money trading (Pokémon, items or currency).
-17. No transferring money, items or Pokémon between your alts.
-18. Do not evade punishments (mutes, bans and so on).
-19. No extremely large villager farms. They lag the server.
+17. No real-money trading (Pokémon, items or currency).
+18. No transferring money, items or Pokémon between your alts.
+19. Do not evade punishments (mutes, bans and so on).
+20. Extremely large villager farms are not allowed. They lag the server.
 
 ***
 

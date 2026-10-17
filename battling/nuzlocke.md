@@ -3,7 +3,7 @@ description: The weekly Nuzlocke Challenge. Beat 8 leaders in a row, and lose yo
 ---
 
 <!-- Sources: network/_upload/hub/config/nuzlocke/config.json (leadersPerRun 8, resetDay FRIDAY 18:00 Australia/Brisbane, requiredPermissions = any region's E4, teamSize 6, GEN_9_SINGLES_FLAT_100, regions Kanto/Johto/Hoenn/Sinnoh, pool of 32, bannedItems revives, bannedMoves revivalblessing, moneyPerWin 10000, completionRewards),
-dev/nuzlocke/src (rules text shown to players, commands, arenas, no items in battle), Downloads/hub logs/logs/latest.log (nuzlocke live on hub only). The 1.5.0 "Second Chance" purchase is staged but not live; left out. -->
+dev/nuzlocke/src (rules text shown to players, commands, arenas, no items in battle), Downloads/hub logs/logs/latest.log (nuzlocke live on hub only). Second Chance (nuzlocke 1.5.0, 18 Oct 2026): config resetPrice 500000, only after a LOST run, once per week, sold by the Nuzlocke Reset NPC on the Hub. -->
 
 # 💀 Nuzlocke Challenge
 
@@ -23,7 +23,7 @@ dev/nuzlocke/src (rules text shown to players, commands, arenas, no items in bat
 | --- | --- |
 | 🏆 **Requirement** | Beat the Elite Four of **any one region** |
 | 🐾 **Team** | Exactly **6 Pokémon** in your party. These are locked in as your team for the whole run. |
-| 🗓️ **Attempts** | **One attempt per week**. Starting a run uses it up. |
+| 🗓️ **Attempts** | **One attempt per week**. Starting a run uses it up. Lost your run? See Second Chance below. |
 | 🖥️ **Server** | The Nuzlocke Challenge is on the **Hub** |
 
 ***
@@ -65,6 +65,18 @@ Type `/nuzlocke lineup` to see this week's leaders before you commit.
 | `/nuzlocke quit` | End your run early and keep your team. Your attempt for the week is still used up. |
 
 Each battle takes you to an arena in the leader's region, and you're sent back when it's over.
+
+***
+
+## 🔁 Second Chance
+
+Lost your run? You can buy **one more attempt** that week from the **Nuzlocke Reset** NPC for **$500,000**.
+
+* Only if your run **ended in a loss**. A run you finished or quit doesn't qualify.
+* **Once per week.** Lose your second attempt and you'll have to wait for Friday's reset.
+* You'll need a new team of 6, since your old one is gone.
+
+Talk to the NPC, then click again to confirm. `/nuzlocke` tells you when a Second Chance is available.
 
 ***
 

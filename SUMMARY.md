@@ -25,6 +25,7 @@
 ## 🐾 Pokémon & Spawns
 
 * [Legendary & Mythical spawns](pokemon/legendary-spawns.md)
+* [Legendary & Mythical Perfumes](pokemon/legendary-perfumes.md)
 * [Catch combos](pokemon/catch-combos.md)
 * [Alphas](pokemon/alphas.md)
 * [Radiants](pokemon/radiants.md)
@@ -36,8 +37,14 @@
 * [Wonder Trade](pokemon/wonder-trade.md)
 * [PokéHunt](pokemon/pokehunt.md)
 
+## 💎 Raids
+
+* [Raid Dens (1 to 6 star)](raids/raid-dens.md)
+* [Seven Star Raids](events/seven-star-raids.md)
+
 ## ⚔️ Battling
 
+* [Ranked & Glory](battling/ranked.md)
 * [GO Gyms](battling/go-gyms.md)
 * [Nuzlocke Challenge](battling/nuzlocke.md)
 
@@ -46,6 +53,10 @@
 * [Seven Star Raids](events/seven-star-raids.md)
 * [Tournaments](events/tournaments.md)
 * [Build Competitions](events/build-competitions.md)
+
+## 💰 Economy & Items
+
+* [Gacha Machines](economy/gacha.md)
 
 ## ⌨️ Commands
 
