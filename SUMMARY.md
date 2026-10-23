@@ -58,6 +58,7 @@
 * [Seven Star Raids](events/seven-star-raids.md)
 * [Tournaments](events/tournaments.md)
 * [Build Competitions](events/build-competitions.md)
+* [Private Auctions](events/private-auctions.md)
 
 ## ⌨️ Commands
 
