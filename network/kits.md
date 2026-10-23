@@ -35,7 +35,7 @@ Every rank has its own kits that refresh on a timer, plus a one-time bonus when 
 | One-time rank bonus | Type `/rankbonus` on the Hub |
 | Monthly Supporter kit | Open `/kits` |
 
-See [Ranks & supporting the server](../getting-started/supporting.md) for more about ranks.
+See [Ranks / Supporter](../getting-started/supporting.md) for more about ranks.
 
 {% hint style="warning" %}
 ⚠️ Make sure you have space in your inventory before claiming a kit.

@@ -28,6 +28,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_rattata.png" alt="Radiant Rattata, Raticate, Alolan Rattata, Alolan Raticate"><figcaption><p>Rattata, Raticate, Alolan Rattata, Alolan Raticate</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/radiants/radiant_igglybuff.png" alt="Radiant Igglybuff, Jigglypuff, Wigglytuff"><figcaption><p>Igglybuff, Jigglypuff, Wigglytuff</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/radiants/radiant_diglett.png" alt="Radiant Diglett, Dugtrio, Alolan Diglett, Alolan Dugtrio"><figcaption><p>Diglett, Dugtrio, Alolan Diglett, Alolan Dugtrio</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_meowth.png" alt="Radiant Meowth, Persian"><figcaption><p>Meowth, Persian</p></figcaption></figure>
@@ -68,8 +70,6 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 {% tab title="Gen 2" %}
 **Johto**
-
-<figure><img src="../.gitbook/assets/radiants/radiant_igglybuff.png" alt="Radiant Igglybuff, Jigglypuff, Wigglytuff"><figcaption><p>Igglybuff, Jigglypuff, Wigglytuff</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_unown.png" alt="Radiant Unown (all 28 forms)"><figcaption><p>Unown (all 28 forms)</p></figcaption></figure>
 
@@ -112,6 +112,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_duskull.png" alt="Radiant Duskull, Dusclops, Dusknoir"><figcaption><p>Duskull, Dusclops, Dusknoir</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/radiants/radiant_chingling.png" alt="Radiant Chingling, Chimecho, Mega Chimecho"><figcaption><p>Chingling, Chimecho, Mega Chimecho</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/radiants/radiant_absol.png" alt="Radiant Absol, Mega Absol"><figcaption><p>Absol, Mega Absol</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_rayquaza.png" alt="Radiant Rayquaza, Mega Rayquaza"><figcaption><p>Rayquaza, Mega Rayquaza</p></figcaption></figure>
@@ -124,8 +126,6 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 <figure><img src="../.gitbook/assets/radiants/radiant_bibarel.png" alt="Radiant Bibarel"><figcaption><p>Bibarel</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_shinx.png" alt="Radiant Shinx, Luxio, Luxray"><figcaption><p>Shinx, Luxio, Luxray</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/radiants/radiant_chingling.png" alt="Radiant Chingling, Chimecho, Mega Chimecho"><figcaption><p>Chingling, Chimecho, Mega Chimecho</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_gible.png" alt="Radiant Gible, Gabite, Garchomp"><figcaption><p>Gible, Gabite, Garchomp</p></figcaption></figure>
 

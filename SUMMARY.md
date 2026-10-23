@@ -9,7 +9,7 @@
 * [Server rules](getting-started/rules.md)
 * [Frequently Asked Questions](getting-started/faq.md)
 * [Reporting a bug](getting-started/report-a-bug.md)
-* [Ranks & supporting the server](getting-started/supporting.md)
+* [Ranks / Supporter](getting-started/supporting.md)
 * [Voting](getting-started/voting.md)
 
 ## 🗺️ The Network
@@ -26,7 +26,7 @@
 ## 🐾 Pokémon & Spawns
 
 * [Legendary & Mythical spawns](pokemon/legendary-spawns.md)
-* [Legendary & Mythical Perfumes](pokemon/legendary-perfumes.md)
+  * [How to boost your chances](pokemon/legendary-perfumes.md)
 * [Catch combos](pokemon/catch-combos.md)
 * [Alphas](pokemon/alphas.md)
 * [Radiants](pokemon/radiants.md)

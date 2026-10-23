@@ -150,7 +150,7 @@ Your claim tool is the **golden hoe** from the Starter kit. See the [FAQ](gettin
 
 ## ⭐ Supporter and rank commands
 
-These need the right rank. See [Ranks & supporting the server](getting-started/supporting.md).
+These need the right rank. See [Ranks / Supporter](getting-started/supporting.md).
 
 | Command | What it does | Who |
 | --- | --- | --- |

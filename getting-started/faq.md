@@ -207,7 +207,7 @@ Each one lasts **30 minutes** and only affects new Pokémon that spawn near you.
 | Rare Perfume | 2x Rare spawns |
 | Ultra Rare Perfume | 4x Ultra Rare spawns |
 
-Looking for a Legendary or Mythical? The **Legendary and Mythical Perfumes** work differently. See [Legendary & Mythical Perfumes](../pokemon/legendary-perfumes.md).
+Looking for a Legendary or Mythical? The **Legendary and Mythical Perfumes** work differently. See [How to boost your chances](../pokemon/legendary-perfumes.md).
 
 </details>
 
@@ -346,7 +346,7 @@ Type `/plot abandon <plot>`, then confirm with `/plot abandon <plot> confirm`.
 
 ## 🎰 Gacha Machines
 
-The Gacha Machines are on the Hub (`/gacha`) and cost Relic Coins to use. Every machine can also drop EXP Candies, Relic Coins, Silver Caps and Ability Patches or Capsules. See [Gacha Machines](../economy/gacha.md) for how to make coins and the full odds for every capsule.
+The Gacha Machines are on the Hub (`/gacha`) and cost Relic Coins to use. Every machine can also drop EXP Candies, Relic Coins, Silver Caps and Ability Patches or Capsules. See [Gacha Machines](../economy/gacha.md) for the full odds for every capsule.
 
 <details>
 

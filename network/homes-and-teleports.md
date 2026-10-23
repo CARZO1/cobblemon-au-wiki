@@ -23,7 +23,7 @@ Homes are on **Survival**. If you use `/home` on the Hub, you'll be sent over to
 | `/home list` | List your homes |
 | `/home delete <name>` | Delete a home |
 
-Ranks get more homes. See [Ranks & supporting the server](../getting-started/supporting.md).
+Ranks get more homes. See [Ranks / Supporter](../getting-started/supporting.md).
 
 {% hint style="success" %}
 💡 Set your first home inside your claim as soon as you've built your base. If you lose track of your base, `/flan list` shows the coordinates of all of your claims.

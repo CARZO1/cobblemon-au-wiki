@@ -1,23 +1,23 @@
 ---
-description: Legendary and Mythical Perfumes greatly increase your odds of drawing one out near you.
+description: Use a Legendary or Mythical Perfume to greatly increase your odds of drawing one out near you.
 ---
 
 <!-- Sources: network/_upload/{hub,survival}/config/legendperfume.json defaults (250k / 400k, 30 min, grace 5 min, windows every 2 min),
 dev/legendperfume/src (one perfume at a time, kept on death, follows between servers, restored if removed early, blocked while data loads after a server switch,
 target must have a spawn entry where the player stands, player messages), network/_upload/hub/openloader-1.8/ATM x MSD [4.0].zip (where mythicals spawn).
-Owner rule: no chance percentages on the item or here ("greatly increases"). -->
+Owner rule: no chance percentages on the item or here ("greatly increases"). Owner 24 Oct: seller is in the End PokéMart (End = 4 badges of one region); page nested under Legendary & Mythical spawns as "How to boost your chances". -->
 
-# 🌸 Legendary & Mythical Perfumes
+# 🌸 How to boost your chances
 
 {% hint style="info" %}
-<p align="center">Spray a <strong>Legendary Perfume</strong> or <strong>Mythical Perfume</strong> and, for the next 30 minutes, you have a much better chance of a Legendary or Mythical finding you. Where you stand matters, so read on before you use one.</p>
+<p align="center">The best way to find a Legendary or Mythical is with a perfume. Spray a <strong>Legendary Perfume</strong> or <strong>Mythical Perfume</strong> and, for the next 30 minutes, you have a much better chance of a Legendary or Mythical finding you. Where you stand matters, so read on before you use one.</p>
 {% endhint %}
 
 ***
 
 ## 🛒 Getting one
 
-Both are sold at the **PokéMart on Survival**. Talk to the perfume seller and click again to confirm.
+Both are sold by the perfume seller at the **PokéMart in the End** on Survival. To get to the End you need the first **4 gym badges of any one region**, then type `/end`. Talk to the perfume seller and click again to confirm.
 
 | Perfume | Price |
 | --- | --- |

@@ -20,6 +20,8 @@ Arceus: ATM arceus.json "enabled": false; sold in the Glory Shop (network/_uploa
 <p align="center">When a Legendary or Mythical spawns, the whole server gets an announcement in chat. Be quick!</p>
 {% endhint %}
 
+💡 Want better odds? See [How to boost your chances](legendary-perfumes.md) to learn about Legendary and Mythical Perfumes.
+
 ***
 
 ## 📖 Reading the tables
