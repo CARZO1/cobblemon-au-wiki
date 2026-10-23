@@ -4,7 +4,7 @@ description: Mega Evolution, Z-Moves, Terastallization and Dynamax, and where to
 
 <!-- Sources: test-server/config/mega_showdown/config.json (multipleMegas false, outSideMega true, teraShardRequired 50, teraShardDropRate 10, dynamaxAnywhere false, powerSpotRange 20),
 network/_upload/{hub,survival}/openloader-1.8/cobblemonau_no_recipes.zip + no_megastone_recipes.zip (stone recipes blocked), alpha_drops.zip (1 in 5 since 18 Oct),
-network/_upload/hub/config/pebbles-crate/crates/mega_stone_crate.json (92 stones, total 764: 66 x 10, 26 x 4), network/_upload/hub/config/skiesguis/guis/mega_stone_trade.json (exchange),
+network/_upload/hub/config/pebbles-crate/crates/mega_stone_crate.json (all 92 stones; odds not shown, owner 24 Oct: they're on the store), network/_upload/hub/config/skiesguis/guis/mega_stone_trade.json (exchange),
 network/_upload/hub/config/votelistener.json, cobbleau-quests milestones.json, test-server/config/DexGenRewards/config.json, network/docs/RANK-BONUS-TOPUP.md, cobblemonau_raids.zip tier 6 loot (3% key), network/_upload/hub/config/cobbleranked/rewards.yaml (Elo 1500 singles),
 owner FAQ (Mega Ring / Z-Ring / Dynamax Band / Tera Orb at Cobblemon Supplies), network/_upload/hub/config/gymrules.json (gym bans). -->
 
@@ -36,10 +36,10 @@ Mega Stones **can't be crafted**. Here's how to get them:
 | Source | How it works |
 | --- | --- |
 | 🦣 **Alphas** | Every wild Alpha you knock out has a **1 in 5** chance to drop a random Mega Stone. See [Alphas](alphas.md). |
-| 🎁 **Mega Stone Crate** | Open Mega Stone Crate keys at `/crates` on the Hub |
+| 🎁 **Mega Stone Crate** | Has every Mega Stone. Buy keys on the [store](https://cobblemon-au.craftingstore.net/category/545120) (the full prize list and odds are there too), or earn them in game. Open them at `/crates` on the Hub. |
 | 🔄 **Mega Stone Exchange** | On the Hub. Trade **6 Mega Stones** (any mix) or **6 Raw Mega Stones / Keystones** (any mix) for 1 Mega Stone Crate key. |
 
-**Mega Stone Crate keys come from:**
+**You can earn Mega Stone Crate keys from:**
 
 * voting (100-vote milestone)
 * quests (100 quests claimed, plus some weekly quests)
@@ -48,15 +48,6 @@ Mega Stones **can't be crafted**. Here's how to get them:
 * Tier 6 raids (3% chance per pouch)
 * reaching 1500 Elo in Ranked Singles
 * the Supporter Crate and the Nuzlocke Challenge clear reward
-
-### 🎲 Mega Stone Crate odds
-
-The crate has all 92 Mega Stones.
-
-| Group | Chance each |
-| --- | --- |
-| 66 regular stones | 1.31% |
-| 26 rarer stones: Charizardite X and Y, Garchompite, Garchompite Z, Gardevoirite, Gengarite, Kangaskhanite, Metagrossite, Mewtwonite X and Y, Sablenite, Salamencite, Tyranitarite, Baxcalibrite, Darkranite, Glimmoranite, Golisopite, Greninjite, Hawluchanite, Heatranite, Lucarionite Z, Magearnite, Raichunite X and Y, Zeraorite, Zygardite | 0.52% |
 
 ***
 

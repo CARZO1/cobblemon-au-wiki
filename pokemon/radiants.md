@@ -3,8 +3,8 @@ description: Radiant Pokémon, the rarest look a Pokémon can have on Cobblemon 
 ---
 
 <!-- Sources: AllTheMons x MegaShowdown Radiants 1.3.zip (data/cobblemon/species_features/radiant.json: 4 regular : 1 radiant, applies to shinies; radiantwildspawned.mcfunction: 100 block message + 300 s glow), network/_upload/hub/config/cobblemon/main.json (shinyRate 32768),
-network/_upload/hub/config/spawnnotify.json (Radiant announcements), network/_upload/hub/config/pebbles-crate/crates/radiant.json (prizes, weights, total 478, key = totem of undying),
-test-server/config/radiantcard.json + dev/radiantcard (Radiant Card behaviour), network/docs/RANK-BONUS-TOPUP.md, network/_upload/{hub,survival}/config/cobbleau-quests/milestones.json, test-server/config/DexGenRewards/config.json, network/_upload/hub/config/nuzlocke/config.json (Radiant key sources). -->
+network/_upload/hub/config/spawnnotify.json (Radiant announcements), network/_upload/hub/config/pebbles-crate/crates/radiant.json (Radiant Crate, includes the Radiant Card), test-server/config/radiantcard.json + dev/radiantcard (Radiant Card behaviour).
+Owner 24 Oct: no crate odds on the wiki (they're on the store); link the store's crate key page instead. -->
 
 # 🌈 Radiants
 
@@ -14,11 +14,11 @@ test-server/config/radiantcard.json + dev/radiantcard (Radiant Card behaviour), 
 
 ***
 
-## ✨ Finding a Radiant in the wild
+## ✨ How to get a Radiant
 
-* Any shiny that spawns has a **1 in 5** chance of being Radiant instead.
-* With normal shiny odds (1 in 32,768), that works out to about **1 in 164,000** spawns.
-* Anything that boosts your shiny odds, like [catch combos](catch-combos.md) or Shiny Incense, boosts your Radiant odds too.
+### 🌿 Find one in the wild
+
+**1 in every 5 shinies is a Radiant.** With normal shiny odds (1 in 32,768), that works out to about 1 in 164,000 spawns. Anything that boosts your shiny odds, like [catch combos](catch-combos.md) or Shiny Incense, boosts your Radiant odds too.
 
 When a Radiant spawns:
 
@@ -26,33 +26,23 @@ When a Radiant spawns:
 * the Radiant **glows** for 5 minutes so you can spot it
 * the whole server gets a spawn announcement
 
+### 🎁 Open a Radiant Crate
+
+Every Pokémon from the **Radiant Crate** is a level 50 Radiant with 5 perfect IVs. You can buy Radiant Crate keys on the [store](https://cobblemon-au.craftingstore.net/category/545120), where you'll also find the full list of prizes and their odds. Some in-game rewards give Radiant Crate keys too.
+
+Open your keys at the crates on the Hub (`/crates`).
+
 ***
 
-## 🎁 Radiant Crate
+## 🖼️ What do they look like?
 
-Open Radiant Crate keys at the crates on the Hub (`/crates`). Every Pokémon from the crate is a **level 50 Radiant with 5 perfect IVs**.
-
-| Tier | Chance each | Pokémon |
-| --- | --- | --- |
-| Common | 2.09% | Diglett, Psyduck, Poliwag, Bellsprout, Snubbull, Nincada, Skitty, Duskull, Patrat, Darumaka, Zorua, Wimpod, Rookidee, Hatenna, Bidoof, Zubat, Fidough, Abra, Snover, Applin, Rattata, Sewaddle, Helioptile, Feebas, Cetoddle, Plusle, Minun, Wailmer, Whismur, Igglybuff, Lickitung, Salandit, Noibat, Doduo, Durant, Meowth |
-| Uncommon | 1.05% | Sneasel, Anorith, Skorupi, Scyther, Porygon, Treecko, Torchic, Mudkip, Charmander, Squirtle, Bulbasaur, Slowpoke, Riolu, Dreepy, Charcadet, Absol, Shinx, Mawile |
-| Rare | 0.42% | Lapras, Gimmighoul, Meltan, Axew, Dratini, Gible, Fuecoco, Rotom, Gastly, Litwick |
-| Legendary | 0.21% | Articuno, Zapdos, Moltres, Cresselia, Iron Thorns |
-| ✨ **Radiant Card** | 0.63% | See below |
-
-**Where to get Radiant Crate keys:**
-
-* the Ascended rank bonus
-* claiming 1,000 quests
-* catching 1,000 species in your Pokédex
-* the Supporter Crate (rare)
-* the Nuzlocke Challenge clear reward (rare)
+See [Every Radiant](radiant-gallery.md) for pictures of every Radiant with its own unique look, shown with its whole evolution family. Lots of other Pokémon can be Radiant too, but they look the same as their normal shiny.
 
 ***
 
 ## 🃏 Radiant Card
 
-The Radiant Card turns one of your own Pokémon into a Radiant.
+The Radiant Card turns one of your own Pokémon into a Radiant. It's a rare prize in the Radiant Crate.
 
 1. Send out the Pokémon you want to change.
 2. Hold the Radiant Card and right-click the Pokémon.

@@ -51,7 +51,16 @@ Supporter is a monthly rank that sits alongside the normal ranks. Supporters get
 
 ## 🛒 Where to buy
 
-Type `/store` in game for a link to the store, where you'll find the full list of perks for each rank.
+Everything is on the Cobblemon AU store:
+
+| Store page | What's there |
+| --- | --- |
+| 🏅 [Ranks](https://cobblemon-au.craftingstore.net/login/545117) | Every rank and its full list of perks |
+| ⭐ [Supporter](https://cobblemon-au.craftingstore.net/category/556010) | The monthly Supporter rank |
+| 🎁 [Crate Keys](https://cobblemon-au.craftingstore.net/category/545120) | Keys for every crate, with each crate's prizes and odds |
+| 🌍 [Global Boosters](https://cobblemon-au.craftingstore.net/category/545385) | Server-wide boosts that help everyone who's online |
+
+You can also type `/store` in game for a link.
 
 {% hint style="warning" %}
 ⚠️ Buying ranks, items or currency from other players for real money is against the [rules](rules.md). Only buy from the official store.

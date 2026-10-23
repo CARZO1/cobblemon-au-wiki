@@ -20,6 +20,7 @@
 * [Homes & teleports](network/homes-and-teleports.md)
 * [Land claims](network/land-claims.md)
 * [The Resource World](network/resource-world.md)
+* [Raid Dens (1 to 6 star)](network/raid-dens.md)
 * [PvP toggle](network/pvp.md)
 
 ## 🐾 Pokémon & Spawns
@@ -29,6 +30,7 @@
 * [Catch combos](pokemon/catch-combos.md)
 * [Alphas](pokemon/alphas.md)
 * [Radiants](pokemon/radiants.md)
+  * [Every Radiant](pokemon/radiant-gallery.md)
 * [Mega Stones, Z-Moves & Tera](pokemon/megas-z-tera.md)
 * [Cosmetic forms](pokemon/cosmetic-forms.md)
 * [Lost Lore exclusives](pokemon/lost-lore.md)
@@ -37,26 +39,25 @@
 * [Wonder Trade](pokemon/wonder-trade.md)
 * [PokéHunt](pokemon/pokehunt.md)
 
-## 💎 Raids
+## 💰 Economy & Items
 
-* [Raid Dens (1 to 6 star)](raids/raid-dens.md)
-* [Seven Star Raids](events/seven-star-raids.md)
+* [GTS](economy/gts.md)
+* [The PokéMart](economy/pokemart.md)
+* [Player Market](economy/market.md)
+* [Gacha Machines](economy/gacha.md)
 
 ## ⚔️ Battling
 
 * [Ranked & Glory](battling/ranked.md)
 * [GO Gyms](battling/go-gyms.md)
 * [Nuzlocke Challenge](battling/nuzlocke.md)
+* [Wagers](battling/wagers.md)
 
 ## 🎉 Events
 
 * [Seven Star Raids](events/seven-star-raids.md)
 * [Tournaments](events/tournaments.md)
 * [Build Competitions](events/build-competitions.md)
-
-## 💰 Economy & Items
-
-* [Gacha Machines](economy/gacha.md)
 
 ## ⌨️ Commands
 
