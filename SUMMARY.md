@@ -19,6 +19,7 @@
 * [Kits](network/kits.md)
 * [Homes & teleports](network/homes-and-teleports.md)
 * [Land claims](network/land-claims.md)
+* [Player Towns](network/player-towns.md)
 * [The Resource World](network/resource-world.md)
 * [Raid Dens (1 to 6 star)](network/raid-dens.md)
 * [PvP toggle](network/pvp.md)
@@ -45,6 +46,7 @@
 * [The PokéMart](economy/pokemart.md)
 * [Player Market](economy/market.md)
 * [Gacha Machines](economy/gacha.md)
+* [Quests](economy/quests.md)
 
 ## ⚔️ Battling
 

@@ -12,6 +12,8 @@ raid rules config (Shadow ban, Mega stripped from rewards), network/_upload/hub/
 <p align="center">Seven Star Raids are the toughest fights on Cobblemon AU: a level 100 boss with scripted moves, shields and a time limit. A <strong>new boss rotates in every 2 weeks</strong>, and each one is announced on <a href="https://discord.gg/G48XBcSNk4">Discord</a>.</p>
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/screenshots/seven-star-darkrai.jpg" alt="A Seven Star Raid against Mega Darkrai"><figcaption><p>A Seven Star Raid against Mega Darkrai</p></figcaption></figure>
+
 ***
 
 ## 🗝️ How it works

@@ -10,6 +10,8 @@ description: Staff-run Pokémon battle tournaments with prizes for the best trai
 <p align="center">Every so often we run <strong>Pokémon battle tournaments</strong>. Trainers sign up, battle through a bracket, and the best walk away with prizes and bragging rights.</p>
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/screenshots/stadium.jpg" alt="The Stadium on the Hub"><figcaption><p>The Stadium on the Hub</p></figcaption></figure>
+
 ***
 
 ## 📣 Finding out about a tournament

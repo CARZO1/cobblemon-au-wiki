@@ -11,6 +11,8 @@ owner 15 Oct (maxGymsPerPlayer raised 3 -> 6 on live), network/_upload/{hub,surv
 <p align="center">GO Gyms work like the gyms in Pokémon GO. Join a team, claim gyms with your Pokémon, defend them from rival teams, and earn money every day for each gym you hold.</p>
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/screenshots/go-gym.jpg" alt="A GO Gym"><figcaption><p>A GO Gym</p></figcaption></figure>
+
 ***
 
 ## 🔴🔵🟡 Pick a team

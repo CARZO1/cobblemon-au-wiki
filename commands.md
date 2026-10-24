@@ -29,7 +29,7 @@ Owner 15 Oct: /pwiki, /hat, /casual free for everyone; /pc Rival and up; /booste
 | `/pokemart` | PokéMart | Both |
 | `/crates` | The crates, where you open your keys | Both |
 | `/gacha` | Gacha Machines | Both |
-| `/quest_hub` | The quest area | Both |
+| `/quest_hub` | The [Quest Hub](economy/quests.md) | Both |
 | `/ev_tower` | EV Training Tower | Both |
 | `/hall_of_fame` | Hall of Fame, showing each region's Champion | Both |
 | `/safari` | Safari Zone | Both |
