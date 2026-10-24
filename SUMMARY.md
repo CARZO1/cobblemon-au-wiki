@@ -48,12 +48,11 @@
 * [Gacha Machines](economy/gacha.md)
 * [Quests](economy/quests.md)
 
-## 🏅 Gyms & Elite Four
-
-* [Player Champions](gyms/champions.md)
-
 ## ⚔️ Battling
 
+* [Gyms & Elite Four](battling/gyms.md)
+* [Player Champions](battling/champions.md)
+* [Battle Tower](battling/battle-tower.md)
 * [Ranked & Glory](battling/ranked.md)
 * [GO Gyms](battling/go-gyms.md)
 * [Nuzlocke Challenge](battling/nuzlocke.md)

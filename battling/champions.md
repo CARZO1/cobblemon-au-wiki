@@ -55,7 +55,7 @@ It's a **best of 3**. The first player to win 2 games takes the title.
 
 ## 📏 Battle rules
 
-Title matches use the same rules as the **Smogon National Dex** format in [Ranked](../battling/ranked.md). Type `/champion info` in game to see the exact rules the server is using.
+Title matches use the same rules as the **Smogon National Dex** format in [Ranked](ranked.md). Type `/champion info` in game to see the exact rules the server is using.
 
 | | |
 | --- | --- |

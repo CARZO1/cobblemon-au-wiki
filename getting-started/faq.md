@@ -147,7 +147,7 @@ Type `/gyms` to open the gym menu. There are four regions: **Kanto, Johto, Hoenn
 
 Beat all 8 Gym Leaders in a region to unlock that region's **Elite Four**. Beat the Elite Four and you can challenge the region's Champion with `/champion challenge <region>`. Type `/hall_of_fame` or `/champion` to see who holds each title.
 
-Title matches are a best of three at level 50, using the Smogon National Dex rules. See [Player Champions](../gyms/champions.md) for the full rules.
+Title matches are a best of three at level 50, using the Smogon National Dex rules. See [Player Champions](../battling/champions.md) for the full rules.
 
 </details>
 
