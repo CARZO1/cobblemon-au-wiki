@@ -162,6 +162,10 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_durant.png" alt="Radiant Durant"><figcaption><p>Durant</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/radiants/radiant_reshiram.png" alt="Radiant Reshiram"><figcaption><p>Reshiram</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/radiants/radiant_zekrom.png" alt="Radiant Zekrom"><figcaption><p>Zekrom</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/radiants/radiant_keldeo.png" alt="Radiant Keldeo, Keldeo (Resolute)"><figcaption><p>Keldeo, Keldeo (Resolute)</p></figcaption></figure>
 
 {% endtab %}
