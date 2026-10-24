@@ -5,7 +5,7 @@ description: Every Radiant with its own unique look, shown with its whole evolut
 <!-- Sources: Media/wiki-renders/radiants (render_radiants.py --all, 23 Oct 2026: transparent renders, true relative sizes, Megas and regional forms included; index.md lists the families and the radiants left out as broken).
 Everything between the GENERATED markers is written by: python dev/tools/build_radiant_gallery.py (re-run after new renders). -->
 
-# 🖼️ Every Radiant
+# Every Radiant
 
 {% hint style="info" %}
 <p align="center">These are all the Pokémon with their own Radiant colours, shown next to the rest of their evolution family at their real sizes. Radiant Megas and regional forms are included too.</p>

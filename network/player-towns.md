@@ -4,7 +4,7 @@ description: Build a town with friends on Survival, and see what other players h
 
 <!-- Sources: owner request (24 Oct) for a Player Towns section with the "bandle city" screenshot (cool base moved to build-competitions.md, 25 Oct); towns are posted in the #🏡│towns Discord channel (Media/screenshots, resized to .gitbook/assets/screenshots). No towns plugin is installed; towns are built with normal Flan claims and trust on Survival (network/_upload/survival/config/flan/flan_config.json: unlimited claims, Visitor/Co-Owner groups). -->
 
-# 🏘️ Player Towns
+# Player Towns
 
 {% hint style="info" %}
 <p align="center">Some of the best spots on Cobblemon AU are built by players. Team up with friends on Survival and build a town, a city, or a base everyone will want to visit.</p>

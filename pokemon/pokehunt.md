@@ -5,7 +5,7 @@ description: Catch the Wanted Pokémon before anyone else for cash, Battle Point
 <!-- Sources: network/_upload/{hub,survival}/config/pokehunt/config.json (slotHours 4, timezone Australia/Brisbane, slotPlan, tiers + rewards, alphaTargets 3, alphaResetDay MONDAY 00:00, broadcastNewHunts/broadcastClaims), dev/pokehunt/src (Generator, Matcher, Hunts, HuntGui: requirements, chance windows, what counts, GUI),
 Downloads/{hub,survival} logs/logs/latest.log (pokehunt 1.2.1 live on both; pool 1036 candidates). -->
 
-# 🎯 PokéHunt
+# PokéHunt
 
 {% hint style="info" %}
 <p align="center">Every 4 hours, three <strong>Wanted Pokémon</strong> go up on the PokéHunt board. The first player on the network to catch one that matches wins the reward. Type <code>/pokehunt</code> to see the board.</p>

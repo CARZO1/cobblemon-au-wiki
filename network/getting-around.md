@@ -4,7 +4,7 @@ description: Warps, shortcuts and switching between servers.
 
 <!-- Sources: network/_upload/{hub,survival}/config/skiesguis/guis/warp_menu.json (menu entries), network/_upload/{hub,survival}/config/commandaliases/*.json and the 1.7.3 mirror alias sets (shortcut commands, E4 lock), network/_upload/hub/config/commandaliases/gyms.json, test-server/config/commandaliases/end.json (End requirement), test-server/config/blanketrtp/blanketrtp/config.jsonc (rtp radius, cooldown, glide). -->
 
-# 🧭 Getting around
+# Getting around
 
 {% hint style="info" %}
 <p align="center">Type <code>/warps</code> for a menu of every location on the network. If a place is on the other server, the warp switches you over automatically.</p>

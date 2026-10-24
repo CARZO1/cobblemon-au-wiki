@@ -9,7 +9,7 @@ cobblemonchallenge-fabric-2.5.0.jar, cobblemon-economy-0.0.19.jar, pvptoggle-1.4
 Live mod lists: Downloads/{hub,survival} logs/logs/latest.log (14-15 Oct 2026).
 Owner 15 Oct: /pwiki, /hat, /casual free for everyone; /pc Rival and up; /boosters and /back are staff only (left out). -->
 
-# ⌨️ Player commands
+# Player commands
 
 {% hint style="info" %}
 <p align="center">Everything here works for every player unless it says otherwise. The <strong>Server</strong> column tells you where a command works. Most Hub-only commands will send you to the Hub if you use them on Survival.</p>

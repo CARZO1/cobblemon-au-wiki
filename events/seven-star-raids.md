@@ -6,7 +6,7 @@ description: The hardest raids on the server, with a new boss every 2 weeks.
 network/_upload/{hub,survival}/openloader-1.8/cobblemonau_event_raid.zip (7 star boss scripts: shields, stat wipes, Tera/Mega phase changes, timers; pouch loot), network/_upload/{hub,survival}/config/cobblemonraiddens/tier_seven.json5 (4 players, 1 Pokemon, 1 life), blacklist.json5 (banned moves/abilities),
 raid rules config (Shadow ban, Mega stripped from rewards), network/_upload/hub/config/skiesguis/guis/tier_7_raid_key*.json (key shop, one per player, $50,000). -->
 
-# ⭐ Seven Star Raids
+# Seven Star Raids
 
 {% hint style="info" %}
 <p align="center">Seven Star Raids are the toughest fights on Cobblemon AU: a level 100 boss with scripted moves, shields and a time limit. A <strong>new boss rotates in every 2 weeks</strong>, and each one is announced on <a href="https://discord.gg/G48XBcSNk4">Discord</a>.</p>

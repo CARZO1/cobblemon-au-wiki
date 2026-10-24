@@ -7,7 +7,7 @@ dev/legendperfume/src (one perfume at a time, kept on death, follows between ser
 target must have a spawn entry where the player stands, player messages), network/_upload/hub/openloader-1.8/ATM x MSD [4.0].zip (where mythicals spawn).
 Owner rule: no chance percentages on the item or here ("greatly increases"). Owner 24 Oct: seller is in the End PokéMart (End = 4 badges of one region); page nested under Legendary & Mythical spawns as "How to boost your chances". -->
 
-# 🌸 How to boost your chances
+# How to boost your chances
 
 {% hint style="info" %}
 <p align="center">The best way to find a Legendary or Mythical is with a perfume. Spray a <strong>Legendary Perfume</strong> or <strong>Mythical Perfume</strong> and, for the next 30 minutes, you have a much better chance of a Legendary or Mythical finding you. Where you stand matters, so read on before you use one.</p>

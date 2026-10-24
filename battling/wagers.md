@@ -4,7 +4,7 @@ description: Bet money on a Pokémon battle against another player.
 
 <!-- Sources: dev/wager/src/main/java/au/cobblemon/wager/WagerConfig.java (MIN 100, MAX 1,000,000, EXPIRY 60 s, MAX_DISTANCE 32, BATTLE_LEVEL 50, formats singles/doubles/triples), WagerMod.java (commands, escrow, team check, forfeit/refund rules, player messages). Live on hub and survival (wager 1.9.0). -->
 
-# 💸 Wagers
+# Wagers
 
 {% hint style="info" %}
 <p align="center">Think your team's the best? Challenge another player to a battle with money on the line. Both of you put in the same amount, and the winner takes it all.</p>

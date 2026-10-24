@@ -7,7 +7,7 @@ network/_upload/survival/openloader-1.8/starf_berry_shiny_nerf.zip (Hopo Berry a
 dev/alphacard + dev/minicard (behaviour), network/_upload/hub/config/rankedrewards/shop.json (Alpha/Mini Card 10,000 Glory, all servers), network/_upload/survival/config/skiesguis/guis/bt_shop3.json (Alpha Card in BP shop),
 network/_upload/{hub,survival}/config/pebbles-crate/crates/team_rocket.json, network/_upload/hub/config/nuzlocke/config.json, network/_upload/{hub,survival}/config/pokehunt/config.json (weekly alpha board). -->
 
-# 🦣 Alphas
+# Alphas
 
 {% hint style="info" %}
 <p align="center">Alphas are giant versions of wild Pokémon. They're bigger, tougher and rarer than normal, and they drop much better loot when you knock them out.</p>

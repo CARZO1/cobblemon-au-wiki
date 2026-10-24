@@ -5,7 +5,7 @@ description: Daily and weekly quests for money and crate keys, plus milestone re
 <!-- Sources: network/_upload/hub/config/cobbleau-quests/categories.json (Fishing, Catching, Battling & Raid, Fossils, Gathering; event categories like Halloween), cobbleau-quests/quests/*.json (daily + weekly quests per category), milestones.json (lifetime rewards),
 test-server/config/cobbleau-quests/config.json board_defaults (4 offered / 1 active / 1 completion per type per category, per player, free abandon) and reset (4am Australia/Sydney, weekly MONDAY), dev/quests Commands.java (/quest, /quest <category>). -->
 
-# 📜 Quests
+# Quests
 
 {% hint style="info" %}
 <p align="center">Quests are the easiest way to earn steady money. Every day and every week you get fresh quests in five categories, and the more you finish, the bigger your milestone rewards. Type <code>/quest</code> to open your quest board.</p>

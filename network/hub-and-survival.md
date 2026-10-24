@@ -4,7 +4,7 @@ description: What's on each of our two servers, and what they share.
 
 <!-- Sources: Downloads/{hub,survival} logs/logs/latest.log (worlds loaded: multiworld hub/kanto/hoenn/sinnoh/e4/market), network/docs/NETWORK_README.md (ownership split), network/_upload/{hub,survival}/config/skiesguis/guis/warp_menu.json, test-server/config/GlobalSpawn.json5 (join at hub lobby), network/_upload/survival/config/flan/flan_config.json, owner FAQ (keepInventory). -->
 
-# 🏙️ Hub and Survival
+# Hub and Survival
 
 {% hint style="info" %}
 <p align="center">Cobblemon AU is two servers joined together. Your Pokémon, PC, inventory, money and progress go with you, so it doesn't matter which one you're on.</p>

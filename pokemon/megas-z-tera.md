@@ -8,7 +8,7 @@ network/_upload/hub/config/pebbles-crate/crates/mega_stone_crate.json (all 92 st
 network/_upload/hub/config/votelistener.json, cobbleau-quests milestones.json, test-server/config/DexGenRewards/config.json, network/docs/RANK-BONUS-TOPUP.md, cobblemonau_raids.zip tier 6 loot (3% key), network/_upload/hub/config/cobbleranked/rewards.yaml (Elo 1500 singles),
 owner FAQ (Mega Ring / Z-Ring / Dynamax Band / Tera Orb at Cobblemon Supplies), network/_upload/hub/config/gymrules.json (gym bans). -->
 
-# 💎 Mega Stones, Z-Moves & Tera
+# Mega Stones, Z-Moves & Tera
 
 {% hint style="info" %}
 <p align="center">Every battle gimmick is on Cobblemon AU: <strong>Mega Evolution</strong> (including the new Legends Z-A Megas), <strong>Z-Moves</strong>, <strong>Terastallization</strong> and <strong>Dynamax</strong>.</p>

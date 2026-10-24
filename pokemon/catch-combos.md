@@ -7,7 +7,7 @@ Sources: network/_upload/{hub,survival}/config/unchained/{spawn,capture,fish,res
 network/_upload/hub/config/cobblemon/main.json (shinyRate 32768), test-server/config/combosync.json (spawn bias; spawn section identical to the survival 1.7.3 mirror),
 dev/combocmd ComboCmd.java (/combo shows catch + fishing chains). Shiny odds = (1 + bonus) / 32768. Egg, snack, shiny-on-capture and spawn IV/HA boosters are disabled. -->
 
-# 🔗 Catch combos
+# Catch combos
 
 {% hint style="info" %}
 <p align="center">Catch or knock out the same Pokémon again and again to build a <strong>combo</strong>. The longer your combo, the better your odds of finding a shiny, and the better the IVs and hidden abilities of what you catch.</p>

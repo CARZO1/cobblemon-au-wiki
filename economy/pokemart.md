@@ -4,7 +4,7 @@ description: The PokéMart on the Hub and what each of its shops sells.
 
 <!-- Sources: test-server/world/config/cobblemon-economy/shops.json (11 Oct; shop names, buy/sell shops, what each stocks), owner FAQ doc (Cobblemon Supplies at the back of the PokéMart). Owner 18 Oct: one or two sentences per shop, no item or price lists. PCO "Battle Rewards"/"Black Market" shops left out. -->
 
-# 🛒 The PokéMart
+# The PokéMart
 
 {% hint style="info" %}
 <p align="center">The PokéMart on the Hub is where you buy supplies and sell what you've gathered. Type <code>/pokemart</code> to go there from either server, then right-click a shopkeeper to open their shop.</p>

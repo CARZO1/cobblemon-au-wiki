@@ -4,7 +4,7 @@ description: Free and rank kits, claimed on the Hub.
 
 <!-- Sources: Downloads/hub logs/logs/latest.log (kits mod loaded on hub only), test-server/config/kits/starter.nbt (starter contents, 30-day cooldown), network/docs/store-rank-category.html + network/_upload/hub/config/commandaliases/rankbonus.json (rank kits, /rankbonus), _archive/network-survival-1.7.3-mirror/config/commandaliases/kit(s).json (survival redirects to hub). -->
 
-# 🎁 Kits
+# Kits
 
 {% hint style="info" %}
 <p align="center">Kits are claimed on the <strong>Hub</strong>. Type <code>/kits</code> to open the kit menu. If you use it on Survival, you'll be sent to the Hub.</p>

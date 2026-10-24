@@ -6,7 +6,7 @@ description: Change how your Pokémon looks with cosmetic items, plus the specia
 network/_upload/{hub,survival}/openloader-1.8/cobblemonau_easter_locked.zip (empties the 3 Easter item rules), cobblemonau_cosmetic_evolutions.zip (9 forms keep their look when evolving), Halloween_2025_DataPack.zip (halloween forms, event only).
 pangoro_operator.json is left out: its "pokemon" field is ["operator"], so it never applies. -->
 
-# 🎨 Cosmetic forms
+# Cosmetic forms
 
 {% hint style="info" %}
 <p align="center">Lots of Pokémon have alternate looks you can unlock with an everyday item. They're purely cosmetic: your Pokémon's stats, type and moves stay exactly the same.</p>

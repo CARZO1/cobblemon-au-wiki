@@ -7,7 +7,7 @@ network/_upload/hub/config/cobbleranked/rewards.yaml (season placing rewards per
 network/_upload/hub/config/rankedrewards/config.json (3 win / 1 loss, RANKED + RANDOM only, minTurns, dailyCap 30, pairDailyCap 3, quitters unpaid, participation 10/25/50/100),
 network/_upload/hub/config/rankedrewards/shop.json (categories and Prestige items). Glory live on both servers since 15 Oct 2026. -->
 
-# 🏆 Ranked & Glory
+# Ranked & Glory
 
 {% hint style="info" %}
 <p align="center">Climb the ranked ladder, finish the month near the top, and earn <strong>Glory</strong> along the way. Glory is a currency you can only get from ranked battling, and you spend it in the <strong>Glory Shop</strong>.</p>

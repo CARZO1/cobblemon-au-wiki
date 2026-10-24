@@ -6,7 +6,7 @@ description: Radiant Pokémon, the rarest look a Pokémon can have on Cobblemon 
 network/_upload/hub/config/spawnnotify.json (Radiant announcements), network/_upload/hub/config/pebbles-crate/crates/radiant.json (Radiant Crate, includes the Radiant Card), test-server/config/radiantcard.json + dev/radiantcard (Radiant Card behaviour).
 Owner 24 Oct: no crate odds on the wiki (they're on the store); link the store's crate key page instead. -->
 
-# 🌈 Radiants
+# Radiants
 
 {% hint style="info" %}
 <p align="center">A Radiant is a special kind of shiny with its own unique colours. Only 1 in every 5 shinies is Radiant, which makes them the rarest Pokémon you can find on Cobblemon AU.</p>

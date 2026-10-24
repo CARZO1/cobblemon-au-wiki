@@ -5,7 +5,7 @@ description: Join a team, claim GO Gyms around the world, and defend them for da
 <!-- Sources: dev/gogyms/src (player messages, MAX_DEFENDERS 6, MAX_HEARTS 3, battle flow, Rocket invasion), test-server/config/gogyms/config.json (battleLevel 50, blockedGimmicks, reclaimLockMinutes 5, incomePerDay 1000, heartDecayHours 24, healCheersPerDay 6, boostHours 24, dailyResetHour 4 Australia/Sydney, noClaimRadius 16, visibleRadius 80, rocket.*),
 owner 15 Oct (maxGymsPerPlayer raised 3 -> 6 on live), network/_upload/{hub,survival}/config/gogyms/rules.json (ban list), Downloads/survival logs/logs/latest.log ("Wild Gyms loaded: 62 gym(s)"), rules.json alias rule 12. -->
 
-# 🏟️ GO Gyms
+# GO Gyms
 
 {% hint style="info" %}
 <p align="center">GO Gyms work like the gyms in Pokémon GO. Join a team, claim gyms with your Pokémon, defend them from rival teams, and earn money every day for each gym you hold.</p>

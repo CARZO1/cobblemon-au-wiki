@@ -4,7 +4,7 @@ description: How to report a bug so we can fix it quickly.
 
 <!-- Source: owner (Discord link). Rule 8 wording from network/_upload/{hub,survival}/config/commandaliases/rules.json -->
 
-# 🐞 Reporting a bug
+# Reporting a bug
 
 {% hint style="info" %}
 <p align="center">Found something broken? Report it on our <a href="https://discord.gg/G48XBcSNk4">Discord</a>. The more detail you give us, the faster we can fix it.</p>

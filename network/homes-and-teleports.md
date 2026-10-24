@@ -4,7 +4,7 @@ description: Set homes and send teleport requests.
 
 <!-- Sources: _archive/network-survival-1.7.3-mirror/config/EssentialCommands.properties (home_limit, teleport_request_duration=60, teleport_interrupt_on_damaged=true), _archive/live-server/mods/luckperms export (default: home.set/tp/delete, tpa/tpahere/tpaccept; tpa denied in raid/safari/E4 worlds), network/_upload/hub/config/commandaliases/home(s).json via the 1.7.3 hub mirror (hub redirects to survival), owner FAQ doc. Home counts per rank not printed: only the stale Aug export lists them. -->
 
-# 🏠 Homes & teleports
+# Homes & teleports
 
 {% hint style="info" %}
 <p align="center">Homes let you jump straight back to your base. Teleport requests let you visit friends, or bring them to you.</p>

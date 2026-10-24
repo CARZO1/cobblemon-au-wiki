@@ -5,7 +5,7 @@ description: Team up to take on 1 to 6 star raid bosses at Raid Dens around the 
 <!-- Sources: test-server/config/cobblemonraiddens/common.json5 (spawning, tier weights 12.26/20.43/34.06/27.25/5/1/0, reset_time 7200 s, cycle_mode ALL, retry_failed_raids false, sync_rewards, reward_distribution random) and tier_{one..six}.json5 (players, cheers, party size, lives, boss/reward level, IVs, catch_rate, ha_rate 0.2, raid_ai, tier 5/6 default script, mark_titan), identical to network/_upload/{hub,survival}/config/cobblemonraiddens apart from formatting;
 test-server/config/openloader/packs/cobblemonau_raids.zip (30 Mega tier 6 bosses at weight 20, Eternal Floette weight 5, pseudo-legendary t6 bosses weight 0; tier 4-6 loot tables), blacklist.json5 (banned moves/abilities), raid rules config (Mega stripped from rewards), owner FAQ (claim bypass). -->
 
-# 💎 Raid Dens
+# Raid Dens
 
 {% hint style="info" %}
 <p align="center">Raid Dens are glowing crystals scattered around the world. Each one holds a powerful <strong>raid boss</strong>. Team up with up to 3 friends, beat it together, and everyone gets loot and a chance to catch it.</p>

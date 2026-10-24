@@ -11,7 +11,7 @@ network/_upload/survival/config/flan/flan_config.json (claim blocks),
 network/_upload/hub/config/skiesguis/guis/gyms_*.json (4 regions),
 test-server/config/commandaliases/end.json (End requirement) -->
 
-# ❓ Frequently Asked Questions
+# Frequently Asked Questions
 
 {% hint style="info" %}
 <p align="center">Click a question to see the answer. Can't find what you're after? Ask in our <a href="https://discord.gg/G48XBcSNk4">Discord</a>.</p>

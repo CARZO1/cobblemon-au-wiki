@@ -5,10 +5,11 @@ description: How to evolve Eevee into all 19 Eeveelutions, including the 11 extr
 <!-- Sources: owner spreadsheet "Eeveelution Evolution Methods" (Methods tab), checked against test-server/mods/extra-eeveelutions-1.2.jar:
 data/cobblemon/species_additions/.../eevee.json (evolution requirements), data/cobblemon/species/custom/*.json (types, base stats, abilities),
 data/cobblemon/spawn_pool_world/*.json (wild spawns), assets/cobblemon/lang/en_us.json (names).
+Renders: dev/tools/render_eeveelutions.py --wiki <this repo> (normal left, shiny right).
 Bans: network/_upload/{hub,survival}/config/gymrules.json (Evereon, Aereon), test-server/config/towerrules.json (Evereon), network/_upload/*/config/gogyms/rules.json (Evereon).
 NOTE: the spreadsheet's per-species stat tabs differ from the mod's data; this page uses the mod's numbers. -->
 
-# 🦊 Extra Eeveelutions
+# Extra Eeveelutions
 
 {% hint style="info" %}
 <p align="center">On top of the 8 official Eeveelutions, Cobblemon AU has <strong>11 extra ones</strong>, so Eevee can now evolve into a Pokémon of every type. Some evolve from Eevee, and most can also be found in the wild.</p>
@@ -57,19 +58,47 @@ NOTE: the spreadsheet's per-species stat tabs differ from the mod's data; this p
 
 ## 📊 Stats & abilities (extra Eeveelutions)
 
-| Pokémon | Type | HP | Atk | Def | SpA | SpD | Spe | Total | Abilities (hidden in *italics*) |
+| **Pokémon** | **Type** | **HP** | **Atk** | **Def** | **SpA** | **SpD** | **Spe** | **Total** | **Abilities** (hidden in *italics*) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Spectreon | Ghost | 75 | 55 | 60 | 130 | 105 | 110 | 535 | Prankster, Insomnia, *Perish Body* |
-| Acideon | Poison | 95 | 65 | 80 | 105 | 85 | 70 | 500 | Poison Point, Liquid Ooze, *Corrosion* |
-| Champeon | Fighting | 85 | 130 | 80 | 65 | 75 | 85 | 520 | Fur Coat, Defiant, *Scrappy* |
-| Aereon | Flying | 75 | 105 | 100 | 70 | 85 | 110 | 545 | Unburden, Hustle, *Simple* |
-| Minereon | Rock | 75 | 105 | 100 | 70 | 85 | 110 | 545 | Sand Force, Sturdy, *Keen Eye* |
-| Hiveon | Bug | 75 | 115 | 100 | 70 | 85 | 110 | 555 | Compound Eyes, Swarm, *Pressure* |
-| Automeon | Steel | 85 | 100 | 130 | 70 | 85 | 110 | 580 | Battle Armor, Clear Body, *Analytic* |
-| Wyveon | Dragon | 85 | 100 | 90 | 110 | 75 | 95 | 555 | Rivalry, Overcoat, *Rock Head* |
-| Dungeon | Ground | 75 | 115 | 100 | 70 | 75 | 60 | 495 | Arena Trap, Own Tempo, *Mold Breaker* |
-| Eeveeon | Normal | 85 | 105 | 85 | 100 | 95 | 110 | 580 | Adaptability, Anticipation, *Normalize* |
-| Evereon | Normal | 98 | 115 | 90 | 115 | 90 | 92 | 600 | Protean, Libero, *Pure Power* |
+| **Spectreon** | Ghost | 75 | 55 | 60 | 130 | 105 | 110 | 535 | Prankster, Insomnia, *Perish Body* |
+| **Acideon** | Poison | 95 | 65 | 80 | 105 | 85 | 70 | 500 | Poison Point, Liquid Ooze, *Corrosion* |
+| **Champeon** | Fighting | 85 | 130 | 80 | 65 | 75 | 85 | 520 | Fur Coat, Defiant, *Scrappy* |
+| **Aereon** | Flying | 75 | 105 | 100 | 70 | 85 | 110 | 545 | Unburden, Hustle, *Simple* |
+| **Minereon** | Rock | 75 | 105 | 100 | 70 | 85 | 110 | 545 | Sand Force, Sturdy, *Keen Eye* |
+| **Hiveon** | Bug | 75 | 115 | 100 | 70 | 85 | 110 | 555 | Compound Eyes, Swarm, *Pressure* |
+| **Automeon** | Steel | 85 | 100 | 130 | 70 | 85 | 110 | 580 | Battle Armor, Clear Body, *Analytic* |
+| **Wyveon** | Dragon | 85 | 100 | 90 | 110 | 75 | 95 | 555 | Rivalry, Overcoat, *Rock Head* |
+| **Dungeon** | Ground | 75 | 115 | 100 | 70 | 75 | 60 | 495 | Arena Trap, Own Tempo, *Mold Breaker* |
+| **Eeveeon** | Normal | 85 | 105 | 85 | 100 | 95 | 110 | 580 | Adaptability, Anticipation, *Normalize* |
+| **Evereon** | Normal | 98 | 115 | 90 | 115 | 90 | 92 | 600 | Protean, Libero, *Pure Power* |
+
+***
+
+## 🖼️ What they look like
+
+Each extra Eeveelution with its shiny form on the right.
+
+<figure><img src="../.gitbook/assets/eeveelutions/eeveelution_spectreonee.png" alt="Spectreon and Shiny Spectreon"><figcaption><p>Spectreon and Shiny Spectreon</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/eeveelutions/eeveelution_acideon.png" alt="Acideon and Shiny Acideon"><figcaption><p>Acideon and Shiny Acideon</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/eeveelutions/eeveelution_champeon.png" alt="Champeon and Shiny Champeon"><figcaption><p>Champeon and Shiny Champeon</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/eeveelutions/eeveelution_aereonee.png" alt="Aereon and Shiny Aereon"><figcaption><p>Aereon and Shiny Aereon</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/eeveelutions/eeveelution_minereon.png" alt="Minereon and Shiny Minereon"><figcaption><p>Minereon and Shiny Minereon</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/eeveelutions/eeveelution_hiveon.png" alt="Hiveon and Shiny Hiveon"><figcaption><p>Hiveon and Shiny Hiveon</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/eeveelutions/eeveelution_automeon.png" alt="Automeon and Shiny Automeon"><figcaption><p>Automeon and Shiny Automeon</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/eeveelutions/eeveelution_wyveon.png" alt="Wyveon and Shiny Wyveon"><figcaption><p>Wyveon and Shiny Wyveon</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/eeveelutions/eeveelution_dungeon.png" alt="Dungeon and Shiny Dungeon"><figcaption><p>Dungeon and Shiny Dungeon</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/eeveelutions/eeveelution_eeveeon.png" alt="Eeveeon and Shiny Eeveeon"><figcaption><p>Eeveeon and Shiny Eeveeon</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/eeveelutions/eeveelution_evereon.png" alt="Evereon and Shiny Evereon"><figcaption><p>Evereon and Shiny Evereon</p></figcaption></figure>
 
 ***
 

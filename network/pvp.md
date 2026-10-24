@@ -4,7 +4,7 @@ description: Turn player-vs-player combat on or off.
 
 <!-- Sources: network/_upload/survival/config/pvptoggle/pvptoggle-config.json (default off, 60s toggle cooldown, 30s combat flag, protect_tameables, no combat-log punishment), Downloads/{hub,survival} logs/logs/latest.log (pvptoggle loaded on both), owner (/pvp free for all). -->
 
-# ⚔️ PvP toggle
+# PvP toggle
 
 {% hint style="info" %}
 <p align="center">Player-vs-player combat is <strong>off</strong> for everyone by default. You can turn it on with <code>/pvp</code> if you want to fight other players.</p>

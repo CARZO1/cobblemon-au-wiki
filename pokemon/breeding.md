@@ -7,7 +7,7 @@ Destiny Knot passes 5 IVs (checked in mod code), cobblemonau_breeding.zip (Desti
 network/_upload/{hub,survival}/openloader-1.8/cobblemonau_easter_locked.zip (Easter forms lay normal eggs). network/docs/BREEDING-EXPLAINER.md is out of date; not used.
 Owner pasted the live server-config.json on 16 Oct: max_fertility 4, shiny_booster_rate 2.0 (test-server copy updated to match). The Sparkling Booster's exact strength is left vague on purpose. -->
 
-# 🥚 Breeding & eggs
+# Breeding & eggs
 
 {% hint style="info" %}
 <p align="center">Put two compatible Pokémon in a <strong>Daycare</strong> and they'll lay eggs, even while you're offline. Collect the eggs with an <strong>Incubator</strong> and they'll hatch while you carry it around.</p>

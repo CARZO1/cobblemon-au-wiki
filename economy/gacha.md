@@ -5,7 +5,7 @@ description: Every Gacha Machine, how to use them, and everything each capsule c
 <!-- Sources: network/_upload/{hub,survival}/openloader-1.8/cobbledgacha_datapack.zip (same file on test-server; capsule loot tables + capsule tier odds 56/25/15/3/1), cobbledgacha-fabric-1.21.1-3.0.3.jar (machine/capsule names), owner FAQ doc (machines on the Hub, White machine is a dud). Owner 24 Oct: every machine takes Relic Coins directly; no coloured Gacha Coins needed.
 Tables between the GENERATED markers come from: python dev/tools/build_gacha_wiki_tables.py (re-run when the datapack changes). -->
 
-# 🎰 Gacha Machines
+# Gacha Machines
 
 {% hint style="info" %}
 <p align="center">The Gacha Machines on the Hub turn your Relic Coins into capsules full of items: evolution stones, held items, TMs, candies and more. Every colour of machine has its own prize pool. Type <code>/gacha</code> to go there.</p>

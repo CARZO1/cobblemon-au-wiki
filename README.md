@@ -4,7 +4,7 @@ description: The player guide for the Cobblemon AU network.
 
 <!-- Sources: network/proxy/velocity.toml (MOTD), Modpack/Cobblemon AU.mrpack (servers.dat), owner (address, Discord, restart times) -->
 
-# 🇦🇺 Welcome to Cobblemon AU
+# Welcome to Cobblemon AU
 
 {% hint style="info" %}
 <p align="center">Cobblemon AU is an Australian Cobblemon server with gyms, megas, raids, quests, ranked battles and plenty more. This wiki explains how everything works so you can spend less time asking and more time catching.</p>

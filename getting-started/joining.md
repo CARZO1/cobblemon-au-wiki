@@ -4,7 +4,7 @@ description: Install the modpack and join cobblemon-au.com.
 
 <!-- Sources: Modpack/Cobblemon AU.mrpack (modrinth.index.json, overrides/config/defaultoptions/servers.dat), test-server/server.properties (require-resource-pack, prompt), owner FAQ doc "Cobblemon AU - Frequently Asked Questions" (update steps) -->
 
-# 🔌 Joining the server
+# Joining the server
 
 {% hint style="info" %}
 <p align="center">Cobblemon AU needs its own modpack. It's free on Modrinth and comes with the server already in your multiplayer list.</p>

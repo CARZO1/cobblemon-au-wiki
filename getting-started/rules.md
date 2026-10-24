@@ -5,7 +5,7 @@ description: The Cobblemon AU server rules.
 <!-- Source: owner's full rules list (18 Oct 2026). Numbered 1 to 20 here; the owner's copy used 16 twice.
 The in-game /rules alias (network/_upload/{hub,survival}/config/commandaliases/rules.json) still has the older 19-rule list without the ranked win-trading rule. -->
 
-# 📜 Server rules
+# Server rules
 
 {% hint style="info" %}
 <p align="center">Everyone on Cobblemon AU follows these rules. Breaking them can lead to warnings, mutes or bans.</p>

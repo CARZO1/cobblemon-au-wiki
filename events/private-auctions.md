@@ -4,7 +4,7 @@ description: Exclusive auctions for rare items, held every few weeks.
 
 <!-- Source: owner (24 Oct): held every few weeks at random times; the owner auctions rare and exclusive items; entry needs a minimum balance that changes each time (kept vague on purpose). No config backs this page. -->
 
-# 🔨 Private Auctions
+# Private Auctions
 
 {% hint style="info" %}
 <p align="center">Every few weeks we hold a <strong>Private Auction</strong>, where rare and exclusive items go up for bidding. Some of these items can't be found anywhere else on the server.</p>

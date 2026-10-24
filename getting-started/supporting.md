@@ -5,7 +5,7 @@ description: Server ranks, the Supporter rank, and how to claim your rewards.
 <!-- Sources: network/docs/store-rank-category.html (rank order, cumulative bonus, /rankbonus on Hub), network/_upload/hub/config/commandaliases/rankbonus.json, test-server/config/commandaliases/supporter.json (lounge), network/docs/BATTLE-TOWER-DEPLOY.md (cobblemonau.battletower.free), dev/pokemorph-standalone (perk node).
 Rank badges: network/_upload/cobblemonau_resourcepack.zip assets/minecraft/textures/ranks/*.png (copied to .gitbook/assets/ranks). Store links from the owner (24 Oct). No prices by owner request. -->
 
-# 💖 Ranks / Supporter
+# Ranks / Supporter
 
 {% hint style="info" %}
 <p align="center">Cobblemon AU is run by a small team and paid for by players who support it. Ranks and the Supporter rank keep the servers online, and you get some nice perks in return.</p>

@@ -4,7 +4,7 @@ description: Fight trainer after trainer in the Battle Tower, build a win streak
 
 <!-- Source: network/docs/BATTLE-TOWER.md (audited 25 Oct 2026 against test-server/live survival: entry, $500 fee + exemptions, 20 floors, run rules, Continue/Rest, how a streak ends, tiers and BP, trainers, signature teams, rules and bans, blocked commands, BP, the 71-item shop, the move tutor, leaderboard, commands). Operator notes and known gaps left out. Screenshot: Media/screenshots/battle tower.png. -->
 
-# 🗼 Battle Tower
+# Battle Tower
 
 {% hint style="info" %}
 <p align="center">The Battle Tower is an endless run of trainer battles. Bring a small team, build the longest win streak you can, and earn <strong>Battle Points (BP)</strong> to spend on held items, rare goods and tutor moves.</p>
@@ -21,7 +21,7 @@ description: Fight trainer after trainer in the Battle Tower, build a win streak
 | 📍 **Where** | In **the End** on **Survival**. Type `/battle_tower` to go there. |
 | 🔑 **Requirement** | The first **4 gym badges of any one region** (they don't stack across regions) |
 | 💵 **Entry fee** | **$500** to start a new run. Continuing a run you rested out of is free. |
-| ⭐ **Supporters** | Always enter for free |
+| ⭐ **Supporters** | **Free entry**, every run. See [Ranks / Supporter](../getting-started/supporting.md). |
 
 Talk to the **receptionist** and choose:
 

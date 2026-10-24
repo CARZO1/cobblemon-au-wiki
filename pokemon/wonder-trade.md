@@ -5,7 +5,7 @@ description: Swap a Pokémon for a random one from other players. Survival only.
 <!-- Sources: Downloads/survival logs/logs/latest.log (WonderTrade 1.6.0 on survival only), _archive/network-survival-1.7.3-mirror/config/wondertrade/main.json (cooldown 60 min, poolMinLevel 1, poolMaxLevel 70, adjustNewPokemonToLevelRange, empty blacklist) + pool.json (~270 entries),
 _archive/network-survival-1.7.3-mirror/config/commandaliases/wt.json + wondertrade.json, hub alias "only on the Survival server", owner (Survival only). Wonder Trade mod stores species/form/level/shiny/gender/nature/ability/IVs/EVs/ball/friendship/nickname; moves and held items are not kept. The CobbleSafari Rotom Phone Wonder Trade app is a different thing and is disabled. -->
 
-# 🔁 Wonder Trade
+# Wonder Trade
 
 {% hint style="info" %}
 <p align="center">Send one of your Pokémon into the Wonder Trade pool and get a random Pokémon back that another player traded in. You never know what you'll get!</p>

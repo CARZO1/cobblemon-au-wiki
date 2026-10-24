@@ -5,7 +5,7 @@ description: The weekly Nuzlocke Challenge. Beat 8 leaders in a row, and lose yo
 <!-- Sources: network/_upload/hub/config/nuzlocke/config.json (leadersPerRun 8, resetDay FRIDAY 18:00 Australia/Brisbane, requiredPermissions = any region's E4, teamSize 6, GEN_9_SINGLES_FLAT_100, regions Kanto/Johto/Hoenn/Sinnoh, pool of 32, bannedItems revives, bannedMoves revivalblessing, moneyPerWin 10000, completionRewards),
 dev/nuzlocke/src (rules text shown to players, commands, arenas, no items in battle), Downloads/hub logs/logs/latest.log (nuzlocke live on hub only). Second Chance (nuzlocke 1.5.0, 18 Oct 2026): config resetPrice 500000, only after a LOST run, once per week, sold by the Nuzlocke Reset NPC on the Hub. -->
 
-# 💀 Nuzlocke Challenge
+# Nuzlocke Challenge
 
 {% hint style="info" %}
 <p align="center">The Nuzlocke Challenge is the hardest test on Cobblemon AU. Take one team of 6 through <strong>8 gym leaders in a row</strong>. Win and you earn big rewards. Lose a single battle and <strong>your whole team is deleted</strong>.</p>

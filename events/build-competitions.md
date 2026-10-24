@@ -4,7 +4,7 @@ description: Show off your building skills in themed build competitions.
 
 <!-- Source: owner request (18 Oct) to list build competitions as an event. No config backs this page; themes, dates, locations and prizes come from each Discord announcement. -->
 
-# 🏗️ Build Competitions
+# Build Competitions
 
 {% hint style="info" %}
 <p align="center">Build competitions give everyone a theme and a deadline. Build your best entry, and the top builds win prizes and get shown off to the whole server.</p>

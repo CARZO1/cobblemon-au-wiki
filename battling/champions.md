@@ -3,7 +3,7 @@ description: Beat a region's Elite Four, then challenge for its Champion title.
 ---
 
 <!-- Sources: network/docs/CHAMPION.md (champion mod 1.5.0 player rules: ranked National Dex preset rules, team lock, team preview + lead pick, strikes, cooldowns, commands), network/_upload/hub/config/champion.json (kanto/johto/hoenn/sinnoh, winsNeeded 2, lockTeams, secondsBetweenGames 45, leadSelectSeconds 60, challengeExpiryHours 72, challengeCooldownHours 24, strikesToForfeit 3, strikeWindowDays 14, oneTitlePerPlayer, titleLossCooldownDays 7, prefix [Champion]). Re-read 25 Oct (CHAMPION.md updated 07:33): weekly Champion kit on hub, hub vs survival label limits, dodged challengers skip the 24h wait. Staff commands left out. -->
-# 👑 Player Champions
+# Player Champions
 
 {% hint style="info" %}
 <p align="center">Every region has a <strong>Champion</strong>, and it's a real player. Beat a region's Elite Four and you can challenge its Champion for the title. Win, and the title is yours until someone takes it from you.</p>

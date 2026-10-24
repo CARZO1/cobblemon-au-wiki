@@ -10,7 +10,7 @@ Kyogre/Regice/Manaphy/Phione are fishing-only with a Lure requirement, Lugia = o
 Zygarde 50% Lv 50-80, Koraidon/Miraidon also on the surface, extra no-rain conditions, Ting-Lu + Silvally + deep dark Type: Null added.
 Arceus: ATM arceus.json "enabled": false; sold in the Glory Shop (network/_upload/*/config/rankedrewards/shop.json). -->
 
-# 🌟 Legendary & Mythical spawns
+# Legendary & Mythical spawns
 
 {% hint style="info" %}
 <p align="center">Almost every Legendary and Mythical Pokémon can be found in the wild on Cobblemon AU. They're all <strong>ultra-rare</strong>, so finding one takes patience, the right place and a bit of luck.</p>

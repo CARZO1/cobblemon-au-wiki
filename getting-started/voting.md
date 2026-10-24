@@ -4,7 +4,7 @@ description: Vote every day for free crate keys and milestone rewards.
 
 <!-- Sources: network/_upload/{hub,survival}/config/commandaliases/vote.json (sites), network/_upload/{hub,survival}/config/votelistener.json (per-vote key + milestones), network/_upload/{hub,survival}/config/commandaliases/votemilestones.json -->
 
-# 🗳️ Voting
+# Voting
 
 {% hint style="info" %}
 <p align="center">Voting helps new players find Cobblemon AU, and every vote gets you a free <strong>Vote Key</strong>.</p>

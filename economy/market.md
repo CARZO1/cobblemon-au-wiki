@@ -5,7 +5,7 @@ description: Rent a plot in the Player Market, run your own shops, and buy from 
 <!-- Sources: network/docs/MARKET-PLAYER-GUIDE.md (player guide, staff section left out), network/_upload/hub/config/shops.json + dev/shops (rent tiers $30k/$25k/$20k a week, 1 plot per player, 4 weeks prepaid, 3-day grace, 2% tax, 8-block buy range, Y 256, 10 s teleport cooldown, blocked items), owner FAQ doc.
 Shop packs (64 included, +8 slots for $2,500/week, max 128): owner confirmed shops 1.5.0 live on 18 Oct. -->
 
-# 🏪 Player Market
+# Player Market
 
 {% hint style="info" %}
 <p align="center">The Market is a trading district on the Hub. Rent your own plot, build a shop, and sell to other players, even while you're offline. Everyone can visit, browse and buy. Type <code>/market</code> to go there.</p>

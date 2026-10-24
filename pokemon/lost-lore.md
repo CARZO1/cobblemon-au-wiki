@@ -6,7 +6,7 @@ description: Server-exclusive Pokémon and forms from Lost Lore, and how to get 
 network/_upload/{hub,survival}/openloader-1.8/ultrarare_biome_filler.zip (Lost Lore spawn weights x0.03, Black Fog herd), network/_upload/{hub,survival}/openloader-1.8/cobblemonau_no_recipes.zip (Light of Life recipe blocked), ATM x MSD [4.0].zip (no wild Eternal Floette),
 cobblemonau_raids.zip (Eternal Floette tier 6 raid boss), network/_upload/{hub,survival}/config/gymrules.json + test-server/config/towerrules.json (bans). -->
 
-# 🌀 Lost Lore exclusives
+# Lost Lore exclusives
 
 {% hint style="info" %}
 <p align="center">Cobblemon AU runs <strong>Lost Lore</strong>, which adds Pokémon and forms you won't find in normal Cobblemon: ancient horrors, corrupted legends, crystal Pokémon and more.</p>

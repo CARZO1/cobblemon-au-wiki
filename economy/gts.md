@@ -5,7 +5,7 @@ description: The Global Trade Station, the server-wide marketplace for Pokémon 
 <!-- Sources: owner FAQ doc (GTS questions), test-server/config/RGTS/config.json + _archive/network-hub-1.7.3-mirror/config/RGTS/config.json (minimumListingPrice 100, auctions 1h to 3d, bidIncrementPercentage 0.1, impactor:dollars), network/_upload/{hub,survival}/config/RGTS/price_control.json (shiny minimum 50,000, max 5,000,000),
 network/_upload/{hub,survival}/config GTS add-on settings (tax 2%, fixed-price expiry 7 days not auctions, anti-snipe: bids in the last 30 s push the end to 90 s, minimum prices: legendary/mythical 150,000, ultra beast 100,000, paradox 75,000, raid shard 60,000, silver caps 35,000). -->
 
-# 🌐 GTS (Global Trade Station)
+# GTS (Global Trade Station)
 
 {% hint style="info" %}
 <p align="center">The GTS is the server-wide marketplace where players buy and sell Pokémon and items with each other. Type <code>/gts</code> to open it. It's one marketplace across both servers.</p>

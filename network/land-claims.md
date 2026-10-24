@@ -4,7 +4,7 @@ description: Protect your base on Survival with a land claim.
 
 <!-- Sources: network/_upload/survival/config/flan/flan_config.json (startingBlocks 500, ticksForNextBlock 500, maxClaimBlocks 10000, maxClaims -1, minClaimsize 100, golden_hoe / stick, inactivityTimeDays -1, defaultGroups Visitor/Co-Owner), network/_upload/hub/config/flan (hub blacklists overworld + market), network/_upload/survival/config/commandaliases/redeem.json (vouchers), test-server/config/gogyms/config.json (noClaimRadius 16), owner FAQ doc (claiming steps, trust, delete, Pokemon sendout, raid crystal bypass). -->
 
-# 🛡️ Land claims
+# Land claims
 
 {% hint style="info" %}
 <p align="center">A claim stops other players from breaking, building or opening anything inside it. Claims only work on <strong>Survival</strong>.</p>

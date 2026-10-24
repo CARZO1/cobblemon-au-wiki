@@ -4,7 +4,7 @@ description: What to do in your first hour on Cobblemon AU.
 
 <!-- Sources: test-server/config/kits/starter.nbt (starter kit), network/_upload/{hub,survival}/config/skiesguis/guis/warp_menu.json (warp list), test-server/config/GlobalSpawn.json5 (join spawn), network/_upload/survival/config/flan/flan_config.json (claim tool), owner FAQ doc (starter with M, healing) -->
 
-# 🎒 Your first steps
+# Your first steps
 
 {% hint style="info" %}
 <p align="center">Every visit starts in the <strong>Hub lobby</strong>. From there you can grab a starter, pick up a free kit, and head to Survival to build your first base.</p>

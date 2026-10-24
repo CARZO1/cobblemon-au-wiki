@@ -4,7 +4,7 @@ description: A fresh world for mining and gathering, reset every week.
 
 <!-- Sources: network/_upload/hub/openloader-1.8/cobblemonau_resourceworld.zip (12 areas, 12,000 x 12,000 box, 5 min + 1 min warnings, evict to Hub, "opens at 12pm"), network/_upload/hub/config/skiesguis/guis/warp_menu.json ("Resets Saturday midnight", "Closed overnight after each reset"), _archive/network-hub-1.7.3-mirror/config/commandaliases/resource.json ("Opens Sunday 12pm AEST"), network/_upload/hub/config/flan (no claims in hub overworld), test-server/config/blanketrtp/blanketrtp/config.jsonc (rtp radius 5000, glide from Y 150). -->
 
-# ⛏️ The Resource World
+# The Resource World
 
 {% hint style="info" %}
 <p align="center">The Resource World is a fresh, untouched world on the Hub for mining, chopping and gathering. It moves to a brand new area every week, so you never have to dig through someone else's leftovers.</p>
