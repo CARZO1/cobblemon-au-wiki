@@ -48,6 +48,10 @@
 * [Gacha Machines](economy/gacha.md)
 * [Quests](economy/quests.md)
 
+## 🏅 Gyms & Elite Four
+
+* [Player Champions](gyms/champions.md)
+
 ## ⚔️ Battling
 
 * [Ranked & Glory](battling/ranked.md)

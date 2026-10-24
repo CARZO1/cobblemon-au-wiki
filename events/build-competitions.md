@@ -10,6 +10,8 @@ description: Show off your building skills in themed build competitions.
 <p align="center">Build competitions give everyone a theme and a deadline. Build your best entry, and the top builds win prizes and get shown off to the whole server.</p>
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/screenshots/cool-base.jpg" alt="A player build on Survival"><figcaption><p>A player build on Survival</p></figcaption></figure>
+
 ***
 
 ## 📣 How they work

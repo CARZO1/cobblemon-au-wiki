@@ -147,12 +147,7 @@ Type `/gyms` to open the gym menu. There are four regions: **Kanto, Johto, Hoenn
 
 Beat all 8 Gym Leaders in a region to unlock that region's **Elite Four**. Beat the Elite Four and you can challenge the region's Champion with `/champion challenge <region>`. Type `/hall_of_fame` or `/champion` to see who holds each title.
 
-Champion matches work like this:
-
-* Best of three. Each game is played at level 100 with your team of 6.
-* Your team is locked for the series, but you get 45 seconds between games to change your lead. Type `/champion ready` to skip the wait.
-* The Champion has 72 hours to accept. A Champion who declines or ignores 3 challenges within 14 days loses the title.
-* If you lose, you have to wait 24 hours before challenging that region again.
+Title matches are a best of three at level 50, using the Smogon National Dex rules. See [Player Champions](../gyms/champions.md) for the full rules.
 
 </details>
 

@@ -92,9 +92,11 @@ Your claim tool is the **golden hoe** from the Starter kit. See the [FAQ](gettin
 | `/glory` | Check your Glory balance | Both |
 | `/glory history` / `/glory top` | Your Glory history, and the Glory leaderboard | Both |
 | `/gloryshop` | Spend Glory in the Glory Shop | Both |
-| `/champion` | See who holds each Champion title | Both |
+| `/champion` | See who holds each [Champion](gyms/champions.md) title | Both |
+| `/champion info` | The current title match rules | Both |
 | `/champion challenge <region> [singles\|doubles]` | Challenge a region's Champion | Both |
 | `/champion accept` / `decline` / `ready` | Answer a title challenge, or skip the wait between games | Both |
+| `/champion lead` | Reopen the lead-pick menu during a title match | Both |
 | `/teams` | Join a [GO Gym](battling/go-gyms.md) team | Both |
 | `/teams leaderboard` | See how the teams are going | Both |
 | `/bp` | Check your Battle Points | Survival |

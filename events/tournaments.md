@@ -2,7 +2,7 @@
 description: Staff-run Pokémon battle tournaments with prizes for the best trainers.
 ---
 
-<!-- Source: owner request (18 Oct) to list tournaments as an event. No config backs this page; details (dates, format, prizes) come from each Discord announcement. -->
+<!-- Source: owner request (18 Oct) to list tournaments as an event. Screenshot = a draft tournament battle (not the Hub stadium). No config backs this page; details (dates, format, prizes) come from each Discord announcement. -->
 
 # 🏆 Tournaments
 
@@ -10,7 +10,7 @@ description: Staff-run Pokémon battle tournaments with prizes for the best trai
 <p align="center">Every so often we run <strong>Pokémon battle tournaments</strong>. Trainers sign up, battle through a bracket, and the best walk away with prizes and bragging rights.</p>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/screenshots/stadium.jpg" alt="The Stadium on the Hub"><figcaption><p>The Stadium on the Hub</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshots/stadium.jpg" alt="A draft tournament battle"><figcaption><p>A draft tournament battle</p></figcaption></figure>
 
 ***
 

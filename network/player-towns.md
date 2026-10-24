@@ -2,7 +2,7 @@
 description: Build a town with friends on Survival, and see what other players have made.
 ---
 
-<!-- Sources: owner request (24 Oct) for a Player Towns section with the "bandle city" and "cool base" screenshots (Media/screenshots, resized to .gitbook/assets/screenshots). No towns plugin is installed; towns are built with normal Flan claims and trust on Survival (network/_upload/survival/config/flan/flan_config.json: unlimited claims, Visitor/Co-Owner groups). -->
+<!-- Sources: owner request (24 Oct) for a Player Towns section with the "bandle city" screenshot (cool base moved to build-competitions.md, 25 Oct); towns are posted in the #🏡│towns Discord channel (Media/screenshots, resized to .gitbook/assets/screenshots). No towns plugin is installed; towns are built with normal Flan claims and trust on Survival (network/_upload/survival/config/flan/flan_config.json: unlimited claims, Visitor/Co-Owner groups). -->
 
 # 🏘️ Player Towns
 
@@ -44,11 +44,9 @@ Everyone can type `/home set <name>` inside the town so they can get back any ti
 
 ***
 
-## 🌟 Show it off
+## 🌟 Find a town or show yours off
 
-<figure><img src="../.gitbook/assets/screenshots/cool-base.jpg" alt="A player-built base on Survival"><figcaption><p>A player-built base on Survival</p></figcaption></figure>
-
-Built something you're proud of? Share screenshots in our [Discord](https://discord.gg/G48XBcSNk4). Great builds might end up featured here on the wiki.
+Player towns are posted in the **#🏡│towns** channel on our [Discord](https://discord.gg/G48XBcSNk4). Have a look to find a town to visit or join, or post your own to find new neighbours.
 
 {% hint style="warning" %}
 ⚠️ Be a good neighbour. Respect other players' claims and builds, and don't build huge villager farms, which lag the server. See the [rules](../getting-started/rules.md).
