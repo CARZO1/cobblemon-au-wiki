@@ -155,7 +155,7 @@ See [Catch combos](catch-combos.md) for the other kinds of combo.
 ## 📍 Where to find fossils
 
 * **Fossil dig sites.** Small fossil sites are scattered all over the overworld, like old skeletons, buried trees, frozen ponds and underwater vents. Brush the **suspicious sand and gravel** there with a **Brush** to dig up fossils. The [Resource World](../network/resource-world.md) is a great place to look.
-* **Sinnoh Underground.** Type `/underground` (it's on Survival, with a **$500** entry fee once a day). Dig fossils out of the walls, and every time you clear the Underground you get a random fossil, which can be any of the 15 including the Galar halves. The **Hiker** down there also trades spheres for fossils.
+* **Sinnoh Underground.** Naturally spawning [Hoopa Rings](../network/hoopa-portals.md) can lead to the Underground (**$500** entry fee once a day). Dig fossils out of the walls, and every time you clear the Underground you get a random fossil, which can be any of the 15 including the Galar halves. The **Hiker** down there also trades spheres for fossils.
 
 {% hint style="success" %}
 💡 The **Fossils** category on the [quest board](../economy/quests.md) pays you for reviving fossils, so check your quests before you start.

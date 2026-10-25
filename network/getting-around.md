@@ -29,7 +29,6 @@ description: Warps, shortcuts and switching between servers.
 | `/market` | Player Market | Hub |
 | `/gyms` | Gym menu (Kanto, Johto, Hoenn and Sinnoh) | Hub |
 | `/resource` | The Resource World | Hub |
-| `/underground` | Sinnoh Underground | Survival |
 | `/end` | The End | Survival |
 | `/battle_tower` | Battle Tower | Survival |
 | `/rtp` | A random spot in the wild | Survival |

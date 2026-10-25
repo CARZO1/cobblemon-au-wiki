@@ -43,7 +43,7 @@ Survival is the main world, and it's where you build.
 | 🔥 **The Nether** | The full Nether |
 | 🌌 **The End** | The End and End Cities. You need 4 gym badges from one region to get in. |
 | 🗼 **Battle Tower** | Back-to-back trainer battles, in the End |
-| 💎 **Sinnoh Underground** | Treasure and fossils |
+| 💎 **Sinnoh Underground** | Treasure and fossils. Get there through a naturally spawning [Hoopa Ring](hoopa-portals.md). |
 | 🔁 **Wonder Trade** | `/wt <slot>` only works on Survival |
 
 ***

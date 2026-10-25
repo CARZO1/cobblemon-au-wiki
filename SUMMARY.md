@@ -22,6 +22,7 @@
 * [Player Towns](network/player-towns.md)
 * [The Resource World](network/resource-world.md)
 * [Raid Dens (1 to 6 star)](network/raid-dens.md)
+* [Hoopa Portals](network/hoopa-portals.md)
 * [PvP toggle](network/pvp.md)
 
 ## 🐾 Pokémon & Spawns

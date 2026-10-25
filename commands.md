@@ -33,7 +33,6 @@ Owner 15 Oct: /pwiki, /hat, /casual free for everyone; /pc Rival and up; /booste
 | `/ev_tower` | EV Training Tower | Both |
 | `/hall_of_fame` | Hall of Fame, showing each region's Champion | Both |
 | `/safari` | Safari Zone | Both |
-| `/underground` | Sinnoh Underground | Both |
 | `/market` | Player Market | Both |
 | `/gyms` | Gym menu for all four regions | Both |
 | `/end` | The End. You need 4 gym badges from one region. | Both |
