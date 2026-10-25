@@ -7,13 +7,15 @@ test-server/config/cobblesafari/safari_config.json (entry fee = 1 Safari Ticket 
 shinyCatchMultiplier 4; canShinyFlee; flee grace 100 ticks; alpha rage 600 ticks, bait calm 0.15; Safari Balloons on), dimensional_timer_config.json (domedimension 900 s per day),
 dimensional_restrictions_config.json (only Safari Balls, no battles), test-server/config/skiesguis/guis/safari_ticket.json ($500 per ticket), commandaliases/safari.json (/safari -> Hub entrance, survival hands off to hub),
 cobblesafari-fabric-1.21.1-0.3.5.jar (TeleporterTickHandler: fee charged once per day, free re-entry while time is left; EntryFeeHelper: item fee = 1; SafariCatchEventHandler: shiny catch x4;
-lang strings; spawn_pool_world/* = the biome table below, generated from the jar, no legendaries). -->
+lang strings; spawn_pool_world/* = the biome table below, generated from the jar, no legendaries). Screenshot: Media/screenshots/safari.png. -->
 
 # Safari Zone
 
 {% hint style="info" %}
 <p align="center">The Safari Zone is a separate world made of <strong>18 biomes, one for each type</strong>. There are no battles here: you sneak up on wild Pokémon and catch them with Safari Balls, using Bait and Mud Balls to tip the odds.</p>
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/screenshots/safari.jpg" alt="Catching Pokémon in the Safari Zone"><figcaption><p>Hunting in the Safari Zone</p></figcaption></figure>
 
 ***
 
