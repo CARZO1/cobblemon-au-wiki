@@ -13,12 +13,14 @@ network/_upload/{hub,survival}/config/pebbles-crate/crates/team_rocket.json, net
 <p align="center">Alphas are giant versions of wild Pokémon. They're bigger, tougher and rarer than normal, and they drop much better loot when you knock them out.</p>
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/screenshots/alpha-pyroar.png" alt="An Alpha Pyroar"><figcaption><p>An Alpha Pyroar</p></figcaption></figure>
+
 ***
 
 ## 🔍 Finding Alphas
 
 * **In the wild.** Alphas spawn in herds, in the same biomes as the normal version. They're rare, so keep an eye out for an oversized Pokémon in the distance.
-* **Fossils.** Every revived fossil has a 1 in 800 chance to come out as an Alpha.
+* **Fossils.** Every revived fossil has a 1 in 800 chance to come out as an Alpha. See [Fossils & reviving](fossils.md).
 * **Honey.** Pokémon drawn in by Honey have a 1 in 4,000 chance to be an Alpha.
 * **Hopo Berry bait.** Fishing with Hopo Berries gives a small chance of reeling in an Alpha.
 

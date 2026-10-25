@@ -37,6 +37,7 @@
 * [Lost Lore exclusives](pokemon/lost-lore.md)
 * [Extra Eeveelutions](pokemon/extra-eeveelutions.md)
 * [Breeding & eggs](pokemon/breeding.md)
+* [Fossils & reviving](pokemon/fossils.md)
 * [Wonder Trade](pokemon/wonder-trade.md)
 * [PokéHunt](pokemon/pokehunt.md)
 

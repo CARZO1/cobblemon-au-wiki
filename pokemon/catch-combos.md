@@ -5,7 +5,8 @@ description: Catch, battle or fish the same Pokémon over and over to boost your
 <!-- Re-checked 18 Oct against test-server/config/unchained/** (updated 17 Oct, identical to staging) and test-server/config/unchained.json (boostActivatedHabitatSpawns true).
 Sources: network/_upload/{hub,survival}/config/unchained/{spawn,capture,fish,resurrection,egg,snack}/*.json (thresholds, enabled, breakStreakOnSuccess, lockToPlayer, marbles),
 network/_upload/hub/config/cobblemon/main.json (shinyRate 32768), test-server/config/combosync.json (spawn bias; spawn section identical to the survival 1.7.3 mirror),
-dev/combocmd ComboCmd.java (/combo shows catch + fishing chains). Shiny odds = (1 + bonus) / 32768. Egg, snack, shiny-on-capture and spawn IV/HA boosters are disabled. -->
+dev/combocmd ComboCmd.java (/combo shows catch + fishing chains). Shiny odds = (1 + bonus) / 32768. Egg, snack, shiny-on-capture and spawn IV/HA boosters are disabled.
+Fossil shiny odds combine Cobblemon's fossilMachineShinyChance 4000 (main.json) with unchained's extra (1 + bonus) / 32768 roll, which only runs once a bonus is unlocked (AbstractBoosterRunner skips a 0 boost). -->
 
 # Catch combos
 
@@ -30,15 +31,34 @@ There are three combos, and they're tracked separately:
 | 💥 **KO combo** | Knock out the same species in battle |
 | 🎣 **Fishing combo** | Fish up the same species |
 
-Fossil revives also build a combo of their own.
+Fossil revives also build a combo of their own (see below).
 
 ***
 
-## ✨ Shiny odds near you
+## 🎯 Catch combo
 
-Your **catch combo and KO combo are added together**. The bigger the total, the better the shiny odds for that species when it spawns near you. Normal shiny odds are **1 in 32,768**.
+Catch the same species over and over. Your catch combo boosts the shiny odds for that species when it spawns near you, and improves the Pokémon you catch.
 
-| Catch + KO combo | Shiny odds for that species |
+| Catch combo | Shiny odds | Perfect IVs |
+| --- | --- | --- |
+| 0 to 24 | 1 in 32,768 | |
+| 25 | 1 in 16,384 | |
+| 30 | | plus a 1 in 200 hidden ability chance |
+| 50 | 1 in 8,192 | 1 |
+| 75 | 1 in 5,461 | |
+| 100 | 1 in 4,096 | 2 |
+| 150 | 1 in 2,731 | 3 |
+| 200 | 1 in 2,048 | 4 |
+| 250 | 1 in 1,365 | |
+| 300+ | 1 in 1,024 | |
+
+***
+
+## 💥 KO combo
+
+Knock out the same species in battle over and over. Your KO combo boosts the shiny odds for that species when it spawns near you. It doesn't change IVs or hidden abilities.
+
+| KO combo | Shiny odds |
 | --- | --- |
 | 0 to 24 | 1 in 32,768 |
 | 25 | 1 in 16,384 |
@@ -50,25 +70,16 @@ Your **catch combo and KO combo are added together**. The bigger the total, the 
 | 250 | 1 in 1,365 |
 | 300+ | 1 in 1,024 |
 
+{% hint style="info" %}
+💡 If you catch **and** knock out the same species, the two combos are **added together** for the shiny odds. For example, a catch combo of 150 plus a KO combo of 150 counts as 300, which is 1 in 1,024.
+{% endhint %}
+
 * A boosted shiny is **reserved for you**, so other players can't steal it.
 * You'll get a message in chat when your combo pays off.
+
 {% hint style="warning" %}
 ⚠️ When a combo-boosted shiny spawns, **both your catch combo and your KO combo go back to zero**. A shiny you find by normal luck doesn't reset anything.
 {% endhint %}
-
-***
-
-## 💪 Perfect IVs & hidden abilities
-
-Your **catch combo** also improves the Pokémon you catch.
-
-| Catch combo | Bonus |
-| --- | --- |
-| 30+ | 1 in 200 chance of a hidden ability |
-| 50 | 1 guaranteed perfect IV |
-| 100 | 2 guaranteed perfect IVs |
-| 150 | 3 guaranteed perfect IVs |
-| 200+ | 4 guaranteed perfect IVs |
 
 ***
 
@@ -96,18 +107,21 @@ When a boosted fishing shiny bites, your fishing combo resets to zero.
 
 ## 🦴 Fossil revives
 
-Reviving the same fossil Pokémon builds a revive combo.
+Reviving the same fossil Pokémon builds a revive combo. Every revived fossil already has a 1 in 4,000 shiny chance, and your revive combo adds to it. See [Fossils & reviving](fossils.md) for how the machine works.
 
 | Revive combo | Shiny odds | Perfect IVs |
 | --- | --- | --- |
+| 0 to 4 | 1 in 4,000 | |
 | 5 | | 1 |
 | 10 | | 2 |
-| 15 | 1 in 10,923 | |
+| 15 | 1 in 2,928 | |
 | 20 | | 3 |
-| 30 | 1 in 6,554 | |
+| 30 | 1 in 2,484 | |
 | 35+ | | 4 |
-| 50 | 1 in 4,681 | |
-| 80+ | 1 in 3,641 | |
+| 50 | 1 in 2,157 | |
+| 80+ | 1 in 1,906 | |
+
+When a revive combo shiny comes out, your revive combo resets to zero.
 
 Hidden ability chances from fossils go up with the **total** number of fossils you've ever revived: 1 in 200 after 50, 2 in 200 after 100, and 3 in 200 after 150.
 
