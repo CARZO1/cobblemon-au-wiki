@@ -6,7 +6,7 @@ description: How to evolve Eevee into all 19 Eeveelutions, including the 11 extr
 data/cobblemon/species_additions/.../eevee.json (evolution requirements), data/cobblemon/species/custom/*.json (types, base stats, abilities),
 data/cobblemon/spawn_pool_world/*.json (wild spawns), assets/cobblemon/lang/en_us.json (names).
 Renders: dev/tools/render_eeveelutions.py --wiki <this repo> (normal left, shiny right).
-Bans: network/_upload/{hub,survival}/config/gymrules.json (Evereon, Aereon), test-server/config/towerrules.json (Evereon), network/_upload/*/config/gogyms/rules.json (Evereon).
+Bans: the gym ban config (Evereon, Aereon), the Battle Tower ban config (Evereon), network/_upload/*/config/gogyms/rules.json (Evereon).
 NOTE: the spreadsheet's per-species stat tabs differ from the mod's data; this page uses the mod's numbers. -->
 
 # Extra Eeveelutions

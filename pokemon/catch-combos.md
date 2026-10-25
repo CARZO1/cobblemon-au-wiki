@@ -4,7 +4,7 @@ description: Catch, battle or fish the same Pokémon over and over to boost your
 
 <!-- Re-checked 18 Oct against test-server/config/unchained/** (updated 17 Oct, identical to staging) and test-server/config/unchained.json (boostActivatedHabitatSpawns true).
 Sources: network/_upload/{hub,survival}/config/unchained/{spawn,capture,fish,resurrection,egg,snack}/*.json (thresholds, enabled, breakStreakOnSuccess, lockToPlayer, marbles),
-network/_upload/hub/config/cobblemon/main.json (shinyRate 32768), test-server/config/combosync.json (spawn bias; spawn section identical to the survival 1.7.3 mirror),
+network/_upload/hub/config/cobblemon/main.json (shinyRate 32768), the chain spawn-bias config,
 dev/combocmd ComboCmd.java (/combo shows catch + fishing chains). Shiny odds = (1 + bonus) / 32768. Egg, snack, shiny-on-capture and spawn IV/HA boosters are disabled.
 Fossil shiny odds combine Cobblemon's fossilMachineShinyChance 4000 (main.json) with unchained's extra (1 + bonus) / 32768 roll, which only runs once a bonus is unlocked (AbstractBoosterRunner skips a 0 boost). -->
 

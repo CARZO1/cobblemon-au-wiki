@@ -36,7 +36,7 @@ Cobblemon AU is a client modpack for the Cobblemon AU server, a public Cobblemon
 * [Pokémon GO Gyms](battling/go-gyms.md)
 * [Player-run Champions](battling/champions.md) for each region
 * [Ranked competitive battles](battling/ranked.md)
-* Safari Zone, plus the [Sinnoh Underground and Distortion World](network/hoopa-portals.md)
+* [Safari Zone](network/safari-zone.md), plus the [Sinnoh Underground and Distortion World](network/hoopa-portals.md)
 * [Battle Tower](battling/battle-tower.md)
 * [Wonder Trade](pokemon/wonder-trade.md)
 * [GTS / Auction House](economy/gts.md)
@@ -48,7 +48,7 @@ Cobblemon AU is a client modpack for the Cobblemon AU server, a public Cobblemon
 * [Join or create Towns](network/player-towns.md)
 * Plushies
 * Seasonal events & [Tournaments](events/tournaments.md)
-* Voice Chat
+* [Voice Chat](getting-started/voice-chat.md)
 * and more!
 
 ***

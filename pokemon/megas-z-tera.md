@@ -6,7 +6,7 @@ description: Mega Evolution, Z-Moves, Terastallization and Dynamax, and where to
 network/_upload/{hub,survival}/openloader-1.8/cobblemonau_no_recipes.zip + no_megastone_recipes.zip (stone recipes blocked), alpha_drops.zip (1 in 5 since 18 Oct),
 network/_upload/hub/config/pebbles-crate/crates/mega_stone_crate.json (all 92 stones; odds not shown, owner 24 Oct: they're on the store), network/_upload/hub/config/skiesguis/guis/mega_stone_trade.json (exchange),
 network/_upload/hub/config/votelistener.json, cobbleau-quests milestones.json, test-server/config/DexGenRewards/config.json, network/docs/RANK-BONUS-TOPUP.md, cobblemonau_raids.zip tier 6 loot (3% key), network/_upload/hub/config/cobbleranked/rewards.yaml (Elo 1500 singles),
-owner FAQ (Mega Ring / Z-Ring / Dynamax Band / Tera Orb at Cobblemon Supplies), network/_upload/hub/config/gymrules.json (gym bans). -->
+owner FAQ (Mega Ring / Z-Ring / Dynamax Band / Tera Orb at Cobblemon Supplies), the gym ban config (gym bans). -->
 
 # Mega Stones, Z-Moves & Tera
 

@@ -3,7 +3,7 @@ description: Take on the gyms of Kanto, Johto, Hoenn and Sinnoh, then the Elite 
 ---
 
 <!-- Sources: network/docs/GYM-LEADER-COMMANDS.md (13 Oct: GEN_9_SINGLES_FLAT_50 + maxItemUses 2 for gyms, prize 10,000 x gym number, badge item, gym N needs gym N-1, can't re-fight; E4 = GEN_9_SINGLES/DOUBLES at the player's own levels, level 100 RunBun teams, win moves on / loss resets; hidden trainers Red/Ethan/Steven/Cynthia: E4 beaten, once only, no items, $100,000, Steven + Cynthia doubles),
-network/_upload/{hub,survival}/config/skiesguis/guis/gyms_{kanto,johto,hoenn,sinnoh}.json (leaders, menu, locked gyms), network/_upload/hub/config/gymrules.json (maxLegendaries 2, maxParadox 1, 26 Pokemon, 7 abilities, 16 moves, 49 items, 2 Tera types), test-server/config/commandaliases/end.json (4 badges of one region -> End), live hub logs (all four regions + E4 live). -->
+network/_upload/{hub,survival}/config/skiesguis/guis/gyms_{kanto,johto,hoenn,sinnoh}.json (leaders, menu, locked gyms), the gym ban config (maxLegendaries 2, maxParadox 1, 26 Pokemon, 7 abilities, 16 moves, 49 items, 2 Tera types), test-server/config/commandaliases/end.json (4 badges of one region -> End), live hub logs (all four regions + E4 live). -->
 
 # Gyms & Elite Four
 

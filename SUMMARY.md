@@ -6,6 +6,7 @@
 
 * [Joining the server](getting-started/joining.md)
 * [Your first steps](getting-started/first-steps.md)
+* [Voice Chat](getting-started/voice-chat.md)
 * [Server rules](getting-started/rules.md)
 * [Frequently Asked Questions](getting-started/faq.md)
 * [Reporting a bug](getting-started/report-a-bug.md)
@@ -22,6 +23,7 @@
 * [Player Towns](network/player-towns.md)
 * [The Resource World](network/resource-world.md)
 * [Raid Dens (1 to 6 star)](network/raid-dens.md)
+* [Safari Zone](network/safari-zone.md)
 * [Hoopa Portals](network/hoopa-portals.md)
 * [PvP toggle](network/pvp.md)
 

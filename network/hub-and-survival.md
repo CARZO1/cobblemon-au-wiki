@@ -23,7 +23,7 @@ You arrive here every time you join. The Hub holds the lobby, the regions and mo
 | 🌋 **Hoenn** | The Hoenn gyms |
 | 🏔️ **Sinnoh** | The Sinnoh gyms |
 | 🏆 **Elite Four** | The Elite Four of every region |
-| 🌿 **Safari Zone** | Catch Pokémon with Safari Balls |
+| 🌿 **Safari Zone** | Catch Pokémon with Safari Balls. See [Safari Zone](safari-zone.md). |
 | 🏪 **Player Market** | Rent a plot and run your own shop |
 | ⛏️ **Resource World** | A fresh world for mining and gathering that resets every week. See [The Resource World](resource-world.md). |
 
