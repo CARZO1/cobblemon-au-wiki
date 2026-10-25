@@ -6,9 +6,9 @@
 
 * [Joining the server](getting-started/joining.md)
 * [Your first steps](getting-started/first-steps.md)
-* [Voice Chat](getting-started/voice-chat.md)
 * [Server rules](getting-started/rules.md)
 * [Frequently Asked Questions](getting-started/faq.md)
+* [Voice Chat](getting-started/voice-chat.md)
 * [Reporting a bug](getting-started/report-a-bug.md)
 * [Ranks / Supporter](getting-started/supporting.md)
 * [Voting](getting-started/voting.md)
