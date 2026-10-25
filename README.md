@@ -2,15 +2,9 @@
 description: The player guide for the Cobblemon AU network.
 ---
 
-<!-- Sources: network/proxy/velocity.toml (MOTD), Modpack/Cobblemon AU.mrpack (servers.dat), owner (address, Discord, restart times) -->
+<!-- Sources: network/proxy/velocity.toml (MOTD), Modpack/Cobblemon AU.mrpack (servers.dat), owner (address, Discord, restart times; About text + feature list 26 Oct, from the Modrinth description) -->
 
 # Welcome to Cobblemon AU
-
-{% hint style="info" %}
-<p align="center">Cobblemon AU is an Australian Cobblemon server with gyms, megas, raids, quests, ranked battles and plenty more. This wiki explains how everything works so you can spend less time asking and more time catching.</p>
-{% endhint %}
-
-***
 
 ## 🎮 Jump in
 
@@ -25,16 +19,37 @@ New here? Start with [Joining the server](getting-started/joining.md), then [You
 
 ***
 
-## 🗺️ Two servers, one network
+## 🇦🇺 About Cobblemon AU
 
-Cobblemon AU runs two servers that share your Pokémon, inventory, money and progress. You can hop between them at any time.
+**The first dedicated Cobblemon modpack built for Australian and New Zealand players** 🇦🇺 🇳🇿
 
-| Server | What's there |
-| --- | --- |
-| 🏙️ **Hub** | The lobby, Pokémon Center, PokéMart, gyms for all four regions, the Elite Four, crates, the Player Market, the Safari Zone and the Resource World |
-| 🌲 **Survival** | The main world where you build your base and claim land, plus the Nether, the End and the Battle Tower |
+Cobblemon AU is a client modpack for the Cobblemon AU server, a public Cobblemon server hosted in Australia, built for low-ping OCE gameplay. Running on Cobblemon 1.8 with Minecraft Java 1.21.1, this pack includes everything you need to jump in and play. We recommend allocating **4 to 6GB of RAM** for the best experience (4GB minimum).
 
-Type `/hub` or `/survival` to switch.
+***
+
+## ✨ Server features
+
+* All 1025 Pokémon available (credit to All The Mons, Mega Showdown and Planeta Cobblemon)
+* [Mega Evolution, Z-Moves, Dynamax and Terastalisation](pokemon/megas-z-tera.md) (credit to the Mega Showdown mod)
+* [Gym Leaders & Elite Four](battling/gyms.md)
+* [Raid Dens](network/raid-dens.md)
+* [Pokémon GO Gyms](battling/go-gyms.md)
+* [Player-run Champions](battling/champions.md) for each region
+* [Ranked competitive battles](battling/ranked.md)
+* Safari Zone, plus the [Sinnoh Underground and Distortion World](network/hoopa-portals.md)
+* [Battle Tower](battling/battle-tower.md)
+* [Wonder Trade](pokemon/wonder-trade.md)
+* [GTS / Auction House](economy/gts.md)
+* [Alpha Pokémon](pokemon/alphas.md)
+* [Radiant Pokémon](pokemon/radiants.md)
+* [Quests](economy/quests.md) & [Bounties](pokemon/pokehunt.md)
+* [Breeding](pokemon/breeding.md)
+* [Land Claims](network/land-claims.md)
+* [Join or create Towns](network/player-towns.md)
+* Plushies
+* Seasonal events & [Tournaments](events/tournaments.md)
+* Voice Chat
+* and more!
 
 ***
 

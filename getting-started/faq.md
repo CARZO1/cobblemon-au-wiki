@@ -378,7 +378,7 @@ Type `/kits` on the Hub and choose **Starter** to get a **golden hoe**, the clai
 
 Hold the hoe and left-click one corner of your area, then go to the far opposite corner and left-click again. If it worked, gold blocks will appear around the edge of your claim.
 
-Claims only work on **Survival**. You start with 500 claim blocks and earn more the longer you play. Claim block vouchers from crates and ranks are paper items. With a voucher in your inventory, type `/redeem` on Survival to add the blocks.
+Claims only work on **Survival**. You start with 500 claim blocks and earn more the longer you play. Claims expire if you don't log in for **90 days**. Claim block vouchers from crates and ranks are paper items. With a voucher in your inventory, type `/redeem` on Survival to add the blocks.
 
 </details>
 

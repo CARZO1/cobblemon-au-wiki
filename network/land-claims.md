@@ -2,7 +2,7 @@
 description: Protect your base on Survival with a land claim.
 ---
 
-<!-- Sources: network/_upload/survival/config/flan/flan_config.json (startingBlocks 500, ticksForNextBlock 500, maxClaimBlocks 10000, maxClaims -1, minClaimsize 100, golden_hoe / stick, inactivityTimeDays -1, defaultGroups Visitor/Co-Owner), network/_upload/hub/config/flan (hub blacklists overworld + market), network/_upload/survival/config/commandaliases/redeem.json (vouchers), test-server/config/gogyms/config.json (noClaimRadius 16), owner FAQ doc (claiming steps, trust, delete, Pokemon sendout, raid crystal bypass). -->
+<!-- Sources: network/_upload/survival/config/flan/flan_config.json (startingBlocks 500, ticksForNextBlock 500, maxClaimBlocks 10000, maxClaims -1, minClaimsize 100, golden_hoe / stick, claims expire after 90 days inactive: owner 26 Oct (staged/test-server inactivityTimeDays is still -1), defaultGroups Visitor/Co-Owner), network/_upload/hub/config/flan (hub blacklists overworld + market), network/_upload/survival/config/commandaliases/redeem.json (vouchers), test-server/config/gogyms/config.json (noClaimRadius 16), owner FAQ doc (claiming steps, trust, delete, Pokemon sendout, raid crystal bypass). -->
 
 # Land claims
 
@@ -49,7 +49,11 @@ Every block of ground you claim uses one claim block.
 | 📈 **Most you can earn by playing** | 10,000 |
 | 📏 **Smallest claim** | 100 blocks |
 | 🔢 **Number of claims** | No limit |
-| 📅 **Do claims expire?** | No, they stay even if you stop playing |
+| 📅 **Do claims expire?** | **Yes.** Claims expire after **90 days** without logging in |
+
+{% hint style="warning" %}
+⚠️ If you don't log in for **90 days**, your claims expire and anyone can build there. Taking a long break? Let us know in our [Discord](https://discord.gg/G48XBcSNk4).
+{% endhint %}
 
 You can get extra claim blocks from **claim block vouchers**, which come from vote crates, rank bonuses and the Supporter kit. With a voucher in your inventory, type `/redeem` on Survival to add the blocks.
 

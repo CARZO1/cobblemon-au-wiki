@@ -116,9 +116,3 @@ These are sold in the Battle Tower BP Shop. Use them on your Daycare.
 | 👯 **Dizygotic Booster** | The next 5 successful egg rolls give **2 eggs** instead of 1 (each egg still costs Fertility) |
 | ✨ **Sparkling Booster** | Boosts the shiny chance of your next 5 eggs |
 | ❤️ **Fertility Candy** | +1 Fertility |
-
-***
-
-{% hint style="warning" %}
-⚠️ Easter Pokémon lay normal eggs, so you can't breed more Easter forms.
-{% endhint %}

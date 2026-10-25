@@ -3,7 +3,7 @@ description: Change how your Pokémon looks with cosmetic items, plus the specia
 ---
 
 <!-- Sources: test-server/config/openloader/packs/CobblemonMoreCosmetics Release v1.1.7-1.21.x.zip (data/cobblemon/cosmetic_items/morecosmetics/**: species, item, aspects; loaded live per Downloads/survival logs "Registered the cobblemon:cosmetic_items registry"),
-network/_upload/{hub,survival}/openloader-1.8/cobblemonau_easter_locked.zip (empties the 3 Easter item rules), cobblemonau_cosmetic_evolutions.zip (9 forms keep their look when evolving), Halloween_2025_DataPack.zip (halloween forms, event only).
+network/_upload/{hub,survival}/openloader-1.8/cobblemonau_easter_locked.zip (empties the 3 Easter item rules), cobblemonau_cosmetic_evolutions.zip (9 forms keep their look when evolving), Halloween_2025_DataPack.zip (halloween forms, event only). Easter forms left off the page for now (owner 26 Oct). Screenshot: Media/screenshots/halloween skins.png.
 pangoro_operator.json is left out: its "pokemon" field is ["operator"], so it never applies. -->
 
 # Cosmetic forms
@@ -113,11 +113,12 @@ Some Pokémon have an **alternate colour** version of their look, which uses a d
 
 Some forms can't be made with an item. They're given out during events and in event crates, and they stay with your Pokémon for good.
 
-| Form | How to get it |
-| --- | --- |
-| 🐰 **Easter** (Togepi line, Buneary line, Blissey) | Easter events and crates only. Lucky Eggs won't give an Easter look on our server. |
-| 🎃 **Halloween** | Halloween events and crates |
+### 🎃 Halloween skins
+
+Spooky Halloween looks, given out during Halloween events and in Halloween crates.
+
+<figure><img src="../.gitbook/assets/screenshots/halloween-skins.jpg" alt="Halloween skins"><figcaption><p>Halloween skins</p></figcaption></figure>
 
 {% hint style="success" %}
-💡 Easter Togepi, Easter Buneary and a few other event and cosmetic forms keep their look when they evolve. Easter Togepi grows up into Easter Togetic, then Easter Togekiss.
+💡 A few event and cosmetic forms keep their look when they evolve.
 {% endhint %}
