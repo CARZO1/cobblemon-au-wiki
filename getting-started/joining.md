@@ -2,13 +2,23 @@
 description: Install the modpack and join cobblemon-au.com.
 ---
 
-<!-- Sources: Modpack/Cobblemon AU.mrpack (modrinth.index.json, overrides/config/defaultoptions/servers.dat), test-server/server.properties (require-resource-pack, prompt), owner FAQ doc "Cobblemon AU - Frequently Asked Questions" (update steps) -->
+<!-- Sources: Modpack/Cobblemon AU.mrpack (modrinth.index.json, overrides/config/defaultoptions/servers.dat), test-server/server.properties (require-resource-pack, prompt), owner FAQ doc "Cobblemon AU - Frequently Asked Questions" (update steps), owner (purge cache fix 26 Oct). Video: owner YouTube upload https://youtu.be/jJtGdmJmC74 (Media/how_to_play.mp4). -->
 
 # Joining the server
 
 {% hint style="info" %}
 <p align="center">Cobblemon AU needs its own modpack. It's free on Modrinth and comes with the server already in your multiplayer list.</p>
 {% endhint %}
+
+***
+
+## 🎬 Watch the video guide
+
+Prefer to watch? This video walks you through how to play. You can also find it in our [Discord](https://discord.gg/G48XBcSNk4).
+
+{% embed url="https://youtu.be/jJtGdmJmC74" %}
+How to play on Cobblemon AU
+{% endembed %}
 
 ***
 
@@ -59,6 +69,15 @@ When we release an update, your game has to match the server or you won't be abl
 5. Select the version marked **Current**.
 6. Click **Update** in the bottom-right corner.
 7. Wait for it to finish, then launch the game as normal.
+
+{% hint style="warning" %}
+**NOTE:** If your modpack keeps giving an error when you try to update:
+
+1. Click the **Settings** button (the gear icon) at the bottom left of the Modrinth App.
+2. Click **Resource Management**.
+3. In the **App cache** section, click **Purge cache**.
+4. Once the cache is purged, follow the steps above again to update your modpack.
+{% endhint %}
 
 ***
 

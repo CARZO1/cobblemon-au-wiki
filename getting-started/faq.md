@@ -9,7 +9,7 @@ GTS sales tax config (2%),
 network/_upload/hub/config/shops.json + dev/shops PlayerCommands.java (market rules and commands),
 network/_upload/survival/config/flan/flan_config.json (claim blocks),
 network/_upload/hub/config/skiesguis/guis/gyms_*.json (4 regions),
-test-server/config/commandaliases/end.json (End requirement) -->
+test-server/config/commandaliases/end.json (End requirement), network/kits.md (Starter kit), owner (new-player question + purge cache note, 26 Oct) -->
 
 # Frequently Asked Questions
 
@@ -20,6 +20,26 @@ test-server/config/commandaliases/end.json (End requirement) -->
 ***
 
 ## 🌐 General
+
+<details>
+
+<summary>I just joined the server, what do I do?</summary>
+
+Welcome! Here's how to get started:
+
+1. **Pick your starter.** Press **M** to choose your starter Pokémon.
+2. **Claim your Starter kit.** Type `/kits` on the Hub and choose **Starter**. You get stone tools, 32 torches, 20 Poké Balls and a **golden hoe**, which is your land claim tool.
+3. **Head to Survival.** There are two worlds you'll spend most of your time in:
+   * **Survival** (`/survival`) is the main world. Build your base here. Everything you build stays forever, and it's the only place you can claim land.
+   * **The Resource World** (`/resource`) is a fresh world for mining, chopping and gathering. It moves to a brand new area every week, so don't build anything you want to keep there.
+4. **Claim your land.** On Survival, hold the golden hoe and left-click one corner of your area, then left-click the far opposite corner. Gold blocks appear around the edge when it works. You start with 500 claim blocks and earn more as you play.
+5. **Set a home.** Stand inside your claim and type `/home set <name>`. Type `/home tp <name>` to get back any time.
+
+Stuck on anything? Ask in the in-game chat or in our [Discord](https://discord.gg/G48XBcSNk4). Our players are always happy to help! 😊
+
+See [Your first steps](first-steps.md) for more.
+
+</details>
 
 <details>
 
@@ -50,6 +70,15 @@ Close the game completely, then:
 5. Select the version marked **Current**.
 6. Click **Update** in the bottom-right corner.
 7. Wait for it to finish, then launch the game as normal.
+
+{% hint style="warning" %}
+**NOTE:** If your modpack keeps giving an error when you try to update:
+
+1. Click the **Settings** button (the gear icon) at the bottom left of the Modrinth App.
+2. Click **Resource Management**.
+3. In the **App cache** section, click **Purge cache**.
+4. Once the cache is purged, follow the steps above again to update your modpack.
+{% endhint %}
 
 </details>
 
@@ -334,68 +363,6 @@ If your rent runs out, you get a 3-day grace period to pay before the plot is re
 <summary>How do I give up my plot?</summary>
 
 Type `/plot abandon <plot>`, then confirm with `/plot abandon <plot> confirm`.
-
-</details>
-
-***
-
-## 🎰 Gacha Machines
-
-The Gacha Machines are on the Hub (`/gacha`) and cost Relic Coins to use. Every machine can also drop EXP Candies, Relic Coins, Silver Caps and Ability Patches or Capsules. See [Gacha Machines](../economy/gacha.md) for the full odds for every capsule.
-
-<details>
-
-<summary>🔴 Red machine</summary>
-
-Heat Rock, Magma Cream, Blaze Powder, Super Potion, Red Apricorn, Charcoal Stick, Poké Ball, Cheri Berry, Fire Gem, Burn Heal, TM Flame Charge, Magmarizer, Fire Stone, Flame Orb and Calcium.
-
-</details>
-
-<details>
-
-<summary>🟡 Yellow machine</summary>
-
-Yellow Apricorn, Electric Gem, TM Charge Beam, Citrine Ball, Magnet, Cheri Berry, Paralyze Heal, Fighting Gem, Super Potion, Electirizer, Muscle Band, Protein, Punching Glove, Thunder Stone, Focus Band, TM Bulk Up, Focus Sash, Choice Specs, TM Thunderbolt, TM Brick Break and TM Zap Cannon.
-
-</details>
-
-<details>
-
-<summary>🩷 Pink machine</summary>
-
-Love Sweet, Normal Gem, Full Heal, Clover Sweet, Fairy Feather, Silk Scarf, Fairy Gem, Pink Apricorn, Roseate Ball, Destiny Knot, Shiny Stone, TM Draining Kiss, TM Body Slam, Whipped Dream, Moon Stone, TM Hyper Beam and Lucky Egg.
-
-</details>
-
-<details>
-
-<summary>🟢 Green machine</summary>
-
-Bug Gem, Grass Gem, Miracle Seed, Medicinal Leek, Big Root, Antidote, Verdant Ball, Leaf Stone, TM U-turn, TM Energy Ball, Blank TM, Sun Stone, Silver Powder, Black Sludge, TM Mega Drain, TM Giga Drain, Choice Specs and Carbos.
-
-</details>
-
-<details>
-
-<summary>🔵 Blue machine</summary>
-
-Never-Melt Ice, Azure Ball, Blue Apricorn, Ice Gem, Dive Ball, Mystic Water, Water Gem, Icy Rock, Ice Heal, TM Aqua Tail, Deep Sea Scale, Dragon Scale, Water Stone, Deep Sea Tooth, Ice Stone, TM Bubble Beam, Choice Specs, Choice Scarf, Calcium and TM Blizzard.
-
-</details>
-
-<details>
-
-<summary>🟣 Black / Purple machine</summary>
-
-Slate Ball, Dark Gem, Twisted Spoon, Black Tumblestone, Black Glasses, Black Apricorn, Rock Gem, Hard Stone, TM Crunch, TM Rock Tomb, TM Psyshock, Dawn Stone, Dusk Stone, Relic Coin, Black Augurite, TM Payback, TM Psybeam, Reaper Cloth, Choice Scarf, Wise Glasses, TM Dark Pulse and Scope Lens.
-
-</details>
-
-<details>
-
-<summary>⚪ White machine</summary>
-
-The White machines are disabled. Opening a White capsule announces a "dud" and drops nothing, and the Relic Coins aren't refunded. Don't use them!
 
 </details>
 
