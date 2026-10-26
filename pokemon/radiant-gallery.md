@@ -166,6 +166,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_zekrom.png" alt="Radiant Zekrom"><figcaption><p>Zekrom</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/radiants/radiant_kyurem.png" alt="Radiant Kyurem, Black Kyurem, White Kyurem"><figcaption><p>Kyurem, Black Kyurem, White Kyurem</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/radiants/radiant_keldeo.png" alt="Radiant Keldeo, Keldeo (Resolute)"><figcaption><p>Keldeo, Keldeo (Resolute)</p></figcaption></figure>
 
 {% endtab %}
@@ -235,6 +237,6 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 {% endtabs %}
 
 {% hint style="warning" %}
-**Not pictured yet:** Zubat, Golbat, Crobat, Poliwag, Mega Galarian Slowbro, Mega Slowbro, Mega Sceptile, Mega Blaziken, Mega Swampert, Mega Aggron, Bidoof, Darmanitan (Zen), Vanillite, Vanillish, Vanilluxe, Kyurem (Origin). These can still be Radiant, but their Radiant colours don't display properly at the moment, so there's no picture of them yet.
+**Not pictured yet:** Zubat, Golbat, Crobat, Poliwag, Mega Galarian Slowbro, Mega Slowbro, Mega Sceptile, Mega Blaziken, Mega Swampert, Mega Aggron, Bidoof, Darmanitan (Zen), Vanillite, Vanillish, Vanilluxe. These can still be Radiant, but their Radiant colours don't display properly at the moment, so there's no picture of them yet.
 {% endhint %}
 <!-- GENERATED END -->

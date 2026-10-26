@@ -3,7 +3,7 @@ description: Team up to take on 1 to 6 star raid bosses at Raid Dens around the 
 ---
 
 <!-- Sources: test-server/config/cobblemonraiddens/common.json5 (spawning, tier weights 12.26/20.43/34.06/27.25/5/1/0, reset_time 7200 s, cycle_mode ALL, retry_failed_raids false, sync_rewards, reward_distribution random) and tier_{one..six}.json5 (players, cheers, party size, lives, boss/reward level, IVs, catch_rate, ha_rate 0.2, raid_ai, tier 5/6 default script, mark_titan), identical to network/_upload/{hub,survival}/config/cobblemonraiddens apart from formatting;
-test-server/config/openloader/packs/cobblemonau_raids.zip (30 Mega tier 6 bosses at weight 20, Eternal Floette weight 5, pseudo-legendary t6 bosses weight 0; tier 4-6 loot tables), blacklist.json5 (banned moves/abilities), raid rules config (Mega stripped from rewards), owner FAQ (claim bypass). Screenshot: Media/screenshots/raid.png (staff name tag blurred in the wiki copy). -->
+test-server/config/openloader/packs/cobblemonau_raids.zip (30 Mega tier 6 bosses at weight 20, Eternal Floette weight 5, pseudo-legendary t6 bosses weight 0; tier 1-6 loot tables built by dev/tools/build_raid_loot.py, see network/docs/RAID-REWARDS.md for every chance), config/commandaliases/redeem.json (/redeem and /redeem combo for raid vouchers), blacklist.json5 (banned moves/abilities), raid rules config (Mega stripped from rewards), owner FAQ (claim bypass). Screenshot: Media/screenshots/raid.png (staff name tag blurred in the wiki copy). -->
 
 # Raid Dens
 
@@ -103,12 +103,38 @@ Every player on a winning team gets a **Raid Pouch**. Right-click it to open. Th
 
 | Tier | What's inside |
 | --- | --- |
-| ⭐ 1 to 3 | Everyday raid loot like candies and items |
-| ⭐⭐⭐⭐ 4 | EXP Candies, stat Mochi, Mints, Gems, cheers, Ability Capsules |
-| ⭐⭐⭐⭐⭐ 5 | Bigger rolls of the above, plus a Cobblemon Cards booster pack |
-| ⭐⭐⭐⭐⭐⭐ 6 | The best rolls, Tera Shards, a booster pack, a small chance of **Stellar Tera Shards**, and a small chance of a **Mega Stone Crate key** |
+| ⭐ 1 and 2 | Apricorns, Poké Balls, Great Balls, Quick Balls, EV-lowering berries, Cobblecard Dust, Relic Coins, mob drops like Blaze Rods and Ender Pearls, and Nether Quartz |
+| ⭐⭐⭐ 3 | Poké, Great and Quick Balls, EV-lowering berries, Cobblecard Dust, Relic Coins, mob drops and Nether Quartz, plus ingots, EXP Candies, Feathers, stat Mochi, Mint Leaves and cheers |
+| ⭐⭐⭐⭐ 4 | Ingots, Diamonds, EXP Candies, Feathers, stat Mochi, Mint Leaves, stat candies, cheers, Tera Shards, Great, Quick and Ultra Balls, Cobblecard Dust, Relic Coins and mob drops |
+| ⭐⭐⭐⭐⭐ 5 | Bigger rolls, Rare Candies, Ability Capsules, Honeycomb, Quick, Ultra, Repeat and Timer Balls, and booster packs |
+| ⭐⭐⭐⭐⭐⭐ 6 | The best rolls, Tera Shards, Ability Capsules and Patches, Honeycomb, the same four balls, and booster packs |
 
-Tera raids also drop Tera Shards, and Dynamax raids drop Max Mushrooms. Every pouch has a chance of **Catching Charms**, which make bosses easier to catch.
+On top of that, every pouch rolls for these:
+
+| | ⭐ 1 | ⭐⭐ 2 | ⭐⭐⭐ 3 | ⭐⭐⭐⭐ 4 | ⭐⭐⭐⭐⭐ 5 | ⭐⭐⭐⭐⭐⭐ 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 💰 Cash Voucher | $1,000 (50%) | $1,000 (60%) | $2,500 (60%) | $2,500 (60%) and $5,000 (15%) | $5,000 (70%) | $10,000 (75%) |
+| 🏆 BP Voucher | | | | | 5 BP (30%) | 10 BP (40%) |
+| 🃏 Trading card | Common (20%) | Common (25%) | Common or Uncommon (30%) | Common or Uncommon (35%) | Common to Epic (45%) | Uncommon to Legendary (55%) |
+| 💊 Ability Capsule | | | 3% | 4% | about 20% | about 35% |
+| 🧢 Silver Bottle Cap | | | | | 1.5% each | 2% each |
+| ✨ Shining Silver Bottle Cap | | | | | | 3% |
+| 🍎 Enchanted Golden Apple | | | | | 3% | 5% |
+| 💎 Blank Mega Stone | | | | | 3% | 5% |
+| 🔑 Keystone | | | | | 2% | 3% |
+| 🌟 Shiny Incense | | | | | 1% | 3% |
+| 🟣 Master Ball | | | | | 1% | 2% |
+| 🔗 Catch Combo voucher | | | | | +2 (3%), +5 (1%) | +5 (3%) |
+| 🛡️ Armoury Crate key | | | | | | 1% |
+| 🗝️ Mega Stone Crate key | | | | | | 3% |
+| 💠 Stellar Tera Shards | | | | | | 2% |
+
+Tera raids also drop extra Tera Shards. Every pouch has a chance of **Catching Charms**, which make bosses easier to catch.
+
+### 🎟️ Vouchers
+
+* **Cash and BP Vouchers:** type **/redeem** to cash in every Cash and BP Voucher in your inventory at once.
+* **Catch Combo vouchers:** add +2 or +5 to your current catch combo, the Pokémon you're chaining. Type **/redeem combo** while you're chaining. Your biggest voucher goes first, and it's only used up if the boost works.
 
 ***
 

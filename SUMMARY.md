@@ -50,6 +50,7 @@
 * [The PokéMart](economy/pokemart.md)
 * [Player Market](economy/market.md)
 * [Gacha Machines](economy/gacha.md)
+* [Cobblemon Cards](economy/cards.md)
 * [Quests](economy/quests.md)
 
 ## ⚔️ Battling
