@@ -12,7 +12,7 @@ owner 15 Oct (maxGymsPerPlayer raised 3 -> 6 on live), owner 27 Oct (first live 
 <p align="center">GO Gyms work like the gyms in Pokémon GO. Join a team, claim gyms with your Pokémon, defend them from rival teams, and earn money every day for each gym you hold.</p>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/screenshots/go-gym.jpg" alt="A GO Gym"><figcaption><p>A GO Gym</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshots/gym-towers.png" alt="GO Gyms held by Team Instinct, Team Mystic and Team Valor"><figcaption><p>GO Gyms held by Instinct, Mystic and Valor</p></figcaption></figure>
 
 ***
 
@@ -37,6 +37,8 @@ Type `/teams leaderboard` to see how many gyms each team holds, plus the weekly 
 ## 📍 Finding gyms
 
 GO Gyms stand in villages and towns across Survival, and there are a few on the Hub too. You'll see them from 80 blocks away, and each one shows the colour of the team that holds it.
+
+<figure><img src="../.gitbook/assets/screenshots/go-gym.jpg" alt="A GO Gym on Cinnabar Island"><figcaption><p>A GO Gym on Cinnabar Island</p></figcaption></figure>
 
 ***
 

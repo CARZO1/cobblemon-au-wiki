@@ -71,6 +71,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 {% tab title="Gen 2" %}
 **Johto**
 
+<figure><img src="../.gitbook/assets/radiants/radiant_mareep.png" alt="Radiant Mareep, Flaaffy, Ampharos, Mega Ampharos"><figcaption><p>Mareep, Flaaffy, Ampharos, Mega Ampharos</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/radiants/radiant_unown.png" alt="Radiant Unown (all 28 forms)"><figcaption><p>Unown (all 28 forms)</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_snubbull.png" alt="Radiant Snubbull, Granbull"><figcaption><p>Snubbull, Granbull</p></figcaption></figure>
