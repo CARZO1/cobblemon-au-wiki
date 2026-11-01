@@ -28,7 +28,7 @@ When a Radiant spawns:
 
 ### 🎁 Open a Radiant Crate
 
-Every Pokémon from the **Radiant Crate** is a level 50 Radiant with 5 perfect IVs. You can buy Radiant Crate keys on the [store](https://cobblemon-au.craftingstore.net/category/545120), where you'll also find the full list of prizes and their odds. Some in-game rewards give Radiant Crate keys too.
+Every Pokémon from the **Radiant Crate** is a Radiant. You can buy Radiant Crate keys on the [store](https://cobblemon-au.craftingstore.net/category/545120), where you'll also find the full list of prizes and their odds. Some in-game rewards give Radiant Crate keys too.
 
 Open your keys at the crates on the Hub (`/crates`).
 
