@@ -36,6 +36,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_psyduck.png" alt="Radiant Psyduck, Golduck"><figcaption><p>Psyduck, Golduck</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/radiants/radiant_mankey.png" alt="Radiant Mankey, Primeape, Annihilape"><figcaption><p>Mankey, Primeape, Annihilape</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/radiants/radiant_poliwhirl.png" alt="Radiant Poliwhirl, Poliwrath, Politoed"><figcaption><p>Poliwhirl, Poliwrath, Politoed</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_abra.png" alt="Radiant Abra, Kadabra, Alakazam, Mega Alakazam"><figcaption><p>Abra, Kadabra, Alakazam, Mega Alakazam</p></figcaption></figure>
@@ -98,6 +100,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_skitty.png" alt="Radiant Skitty, Delcatty"><figcaption><p>Skitty, Delcatty</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/radiants/radiant_sableye.png" alt="Radiant Sableye, Mega Sableye"><figcaption><p>Sableye, Mega Sableye</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/radiants/radiant_mawile.png" alt="Radiant Mawile, Mega Mawile"><figcaption><p>Mawile, Mega Mawile</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_aron.png" alt="Radiant Aron, Lairon, Aggron"><figcaption><p>Aron, Lairon, Aggron</p></figcaption></figure>
@@ -117,6 +121,10 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 <figure><img src="../.gitbook/assets/radiants/radiant_chingling.png" alt="Radiant Chingling, Chimecho, Mega Chimecho"><figcaption><p>Chingling, Chimecho, Mega Chimecho</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_absol.png" alt="Radiant Absol, Mega Absol"><figcaption><p>Absol, Mega Absol</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/radiants/radiant_kyogre.png" alt="Radiant Kyogre, Primal Kyogre"><figcaption><p>Kyogre, Primal Kyogre</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/radiants/radiant_groudon.png" alt="Radiant Groudon, Primal Groudon"><figcaption><p>Groudon, Primal Groudon</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_rayquaza.png" alt="Radiant Rayquaza, Mega Rayquaza"><figcaption><p>Rayquaza, Mega Rayquaza</p></figcaption></figure>
 
@@ -157,6 +165,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 <figure><img src="../.gitbook/assets/radiants/radiant_darumaka.png" alt="Radiant Darumaka, Darmanitan"><figcaption><p>Darumaka, Darmanitan</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_zorua.png" alt="Radiant Zorua, Zoroark, Hisuian Zorua, Hisuian Zoroark"><figcaption><p>Zorua, Zoroark, Hisuian Zorua, Hisuian Zoroark</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/radiants/radiant_emolga.png" alt="Radiant Emolga"><figcaption><p>Emolga</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_litwick.png" alt="Radiant Litwick, Lampent, Chandelure, Mega Chandelure"><figcaption><p>Litwick, Lampent, Chandelure, Mega Chandelure</p></figcaption></figure>
 
@@ -209,6 +219,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_hatenna.png" alt="Radiant Hatenna, Hattrem, Hatterene"><figcaption><p>Hatenna, Hattrem, Hatterene</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/radiants/radiant_milcery.png" alt="Radiant Milcery, Alcremie"><figcaption><p>Milcery, Alcremie</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/radiants/radiant_dreepy.png" alt="Radiant Dreepy, Drakloak, Dragapult"><figcaption><p>Dreepy, Drakloak, Dragapult</p></figcaption></figure>
 
 {% endtab %}
@@ -233,6 +245,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 <figure><img src="../.gitbook/assets/radiants/radiant_ironthorns.png" alt="Radiant Iron Thorns"><figcaption><p>Iron Thorns</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_gimmighoul.png" alt="Radiant Gimmighoul, Gholdengo, Gimmighoul (Roaming)"><figcaption><p>Gimmighoul, Gholdengo, Gimmighoul (Roaming)</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/radiants/radiant_archaludon.png" alt="Radiant Archaludon"><figcaption><p>Archaludon</p></figcaption></figure>
 
 {% endtab %}
 
