@@ -103,20 +103,20 @@ Every player on a winning team gets a **Raid Pouch**. Right-click it to open. Th
 
 | Tier | What's inside |
 | --- | --- |
-| ⭐ 1 and 2 | Apricorns, Poké Balls, Great Balls, Quick Balls, EV-lowering berries, Cobblecard Dust, Relic Coins, mob drops like Blaze Rods and Ender Pearls, and Nether Quartz |
+| ⭐ 1 and 2 | Apricorns, Poké Balls, Great Balls, Quick Balls, EV-lowering berries, Cobblecard Dust, Relic Coins, iron nuggets, mob drops like Blaze Rods and Ender Pearls, and Nether Quartz. Tier 2 adds gold nuggets, Apricorn seeds and EXP Candies |
 | ⭐⭐⭐ 3 | Poké, Great and Quick Balls, EV-lowering berries, Cobblecard Dust, Relic Coins, mob drops and Nether Quartz, plus ingots, EXP Candies, Feathers, stat Mochi, Mint Leaves and cheers |
-| ⭐⭐⭐⭐ 4 | Ingots, Diamonds, EXP Candies, Feathers, stat Mochi, Mint Leaves, stat candies, cheers, Tera Shards, Great, Quick and Ultra Balls, Cobblecard Dust, Relic Coins and mob drops |
-| ⭐⭐⭐⭐⭐ 5 | Bigger rolls, Rare Candies, Ability Capsules, Honeycomb, Quick, Ultra, Repeat and Timer Balls, and booster packs |
-| ⭐⭐⭐⭐⭐⭐ 6 | The best rolls, Tera Shards, Ability Capsules and Patches, Honeycomb, the same four balls, and booster packs |
+| ⭐⭐⭐⭐ 4 | Ingots, Diamonds, EXP Candies, Feathers, stat Mochi, Mint Leaves, stat candies, cheers, Great, Quick and Ultra Balls, Cobblecard Dust, Relic Coins and mob drops, plus 3 to 7 Tera Shards in every pouch |
+| ⭐⭐⭐⭐⭐ 5 | More items per pouch: Diamonds, ingots, big EXP Candies, Rare Candies, stat Mochi, Mint Leaves, stat candies, cheers, Ability Capsules, Raid Shards, booster packs, Honeycomb, Cobblecard Dust, Relic Coins, and Quick, Ultra, Repeat and Timer Balls |
+| ⭐⭐⭐⭐⭐⭐ 6 | The most items per pouch: everything from tier 5 in bigger amounts, plus Ability Patches and 10 to 20 Tera Shards in every pouch |
 
 On top of that, every pouch rolls for these:
 
 | | ⭐ 1 | ⭐⭐ 2 | ⭐⭐⭐ 3 | ⭐⭐⭐⭐ 4 | ⭐⭐⭐⭐⭐ 5 | ⭐⭐⭐⭐⭐⭐ 6 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 💰 Cash Voucher | $1,000 (50%) | $1,000 (60%) | $2,500 (60%) | $2,500 (60%) and $5,000 (15%) | $5,000 (70%) | $10,000 (75%) |
-| 🏆 BP Voucher | | | | | 5 BP (30%) | 10 BP (40%) |
+| 💰 Cash Voucher | $1,000 (50%) | $1,000 (60%) | $2,500 (60%) | $2,500 (36%) or $5,000 (9%) | $5,000 (34%) | $10,000 (35%) |
+| 🏆 BP Voucher | | | | | 5 BP (5%) | 10 BP (10%) |
 | 🃏 Trading card | Common (20%) | Common (25%) | Common or Uncommon (30%) | Common or Uncommon (35%) | Common to Epic (45%) | Uncommon to Legendary (55%) |
-| 💊 Ability Capsule | | | 3% | 4% | about 20% | about 35% |
+| 💊 Ability Capsule | | | 3% | 4% | about 20% | about 33% |
 | 🧢 Silver Bottle Cap | | | | | 1.5% each | 2% each |
 | ✨ Shining Silver Bottle Cap | | | | | | 3% |
 | 🍎 Enchanted Golden Apple | | | | | 3% | 5% |
@@ -124,12 +124,16 @@ On top of that, every pouch rolls for these:
 | 🔑 Keystone | | | | | 2% | 3% |
 | 🌟 Shiny Incense | | | | | 1% | 3% |
 | 🟣 Master Ball | | | | | 1% | 2% |
-| 🔗 Catch Combo voucher | | | | | +2 (3%), +5 (1%) | +5 (3%) |
+| 🔗 Catch Combo voucher | | | | | +2 (1.4%), +5 (0.5%) | +5 (1.4%) |
 | 🛡️ Armoury Crate key | | | | | | 1% |
 | 🗝️ Mega Stone Crate key | | | | | | 3% |
 | 💠 Stellar Tera Shards | | | | | | 2% |
 
-Tera raids also drop extra Tera Shards. Every pouch has a chance of **Catching Charms**, which make bosses easier to catch.
+On 4 to 6 star raids, Cash, BP and Catch Combo vouchers share one roll, so you get at most one of them per pouch.
+
+Tera raids also drop extra Tera Shards.
+
+**Didn't catch the boss?** Your pouch gets a bonus roll: extra EXP Candies and a chance at a **Catching Charm**. Hold a charm in your **off hand** when a boss goes down to raise your catch chance; it's used up. On 5 and 6 star raids the bonus roll can also give Rare Candies, Ability Capsules and Ability Patches. (1 and 2 star bosses are always caught, so they never get it.)
 
 ### 🎟️ Vouchers
 
