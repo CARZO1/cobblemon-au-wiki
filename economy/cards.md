@@ -6,7 +6,7 @@ description: Collect Pokémon trading cards, open booster packs, grade your best
 BoosterPackItem: godPackTicketChance % per pack opened; FabricCobblemonCards: boosterChestSpawnChance % per chest; accessories slot "Card Binder"),
 test-server/config/cobblemon-cards.json (= both _upload copies: cardDropChance 0.5, godPackTicketChance 0.02, boosterChestSpawnChance 1.0, trainer caps exp 1.5 / catch 1.25 / shiny 1.5,
 spawn cap 3, trainerStatMinGrade 9 at 50%, lucky 5%, grading 100 ticks + 8 dust, recycler 40 ticks, restorer 5 dust + 60 ticks + 60/grade, binder pages 1/2/3/6/10/1000, masterAlbumGivesStats false),
-cobblemon-cards-species-rarity.json (card rarity follows the species' tier), the server's card add-on config (equipped binder only, drop bonus max +5 points, binder Luck max +10, binder spawn boost skips legendary/mythical; random_card loot function for raid cards),
+cobblemon-cards-species-rarity.json (card rarity follows the species' tier), BoosterLootTable/ModEvents statValue per rarity (+0.3 shiny), GradingStationBlockEntity (+3% per grade), BinderItem attributes (health/armour/luck/mining flat, others % of base), 12 cards per page, the server's card add-on config (equipped binder only, drop bonus max +5 points, binder Luck max +10, binder spawn boost skips legendary/mythical; random_card loot function for raid cards),
 BinderMenu SLOTS_PER_PAGE 12, cobblemonau_raids.zip raid_card/<rarity> tables (raid card drops, see network/docs/RAID-REWARDS.md),
 openloader cobblemonau_card_recipes.zip (type boosters), pebbles-crate vote.json (3x Booster Pack), skiesguis bt_shop3.json (Booster Pack 40 BP), cobbledgacha_datapack (Cobblecard Dust),
 Modpack keybindings.txt (open_binder + open_showcase unbound). Screenshot: Media/screenshots/booster pack opening.png (a God Pack). -->
@@ -77,22 +77,47 @@ Need more room? A **Card Cabinet** block holds as many cards as you like, with s
 
 ### 💪 Card bonuses
 
-Each card shows the bonus it gives when it's in your worn binder:
+Every card gives one bonus while it's in your worn binder. Bonuses from different cards add together, and your binder's **Stats Bonus** list shows your totals. Most bonuses are shown as a **percentage**. Health, armour, luck and mining speed are shown as plain numbers.
 
-* **Player stats:** mining speed, movement speed, attack damage, attack speed, luck, armour and max health
-  * **Luck** from your binder adds up to **+10** at most. Luck gives you better finds when digging in the Underground, better drops from trainers you beat, and more treasure when fishing.
-* **Card drop chance:** raises your 0.5% card drop chance, up to **+5%** extra
-* **Spawn boost:** more wild Pokémon of the card's type spawn near you, up to **3 times** as many. It never brings out Legendaries or Mythicals.
+**How strong is a card?** It depends on its rarity, whether it's shiny, and its grade:
+
+| Card rarity | Bonus per card |
+| --- | --- |
+| Common | +0.15% to +0.3% |
+| Uncommon | +0.45% to +0.9% |
+| Rare | +1.2% to +2.1% |
+| Epic | +2.4% to +3.6% |
+| Legendary | +3.6% to +5.4% |
+| Mythic | +6% to +7.5% |
+
+* ✨ **Shiny** cards get an extra **+0.9%**.
+* 🔬 **Grading** makes a card **3% stronger per grade**, so a grade 10 card is 30% stronger.
+* The strongest possible card, a **shiny Mythic graded 10**, gives about **+10.9%**.
+
+**The most each bonus can give you:**
+
+Your binder adds up everything, but some bonuses stop working past a limit. Anything over the limit doesn't do anything extra.
+
+| Bonus on your binder | Most that counts | What that means |
+| --- | --- | --- |
+| 🃏 Card Drop Chance | **+5%** | Up to a 5.5% chance per Pokémon (the normal 0.5% plus 5%) |
+| 🌿 Spawn boost for a type | **+200%** | Up to 3 times as many Pokémon of that type |
+| 🍀 Luck | **+10** | |
+| 🛡️ Armour | Up to **30** armour in total, counting your gear | Minecraft's own armour limit |
+| ❤️ Max Health, ⛏️ Mining Speed, 👟 Movement Speed, ⚔️ Attack Damage, 💨 Attack Speed | No limit | |
+
+* **Luck** gives you better finds when digging in the Underground, better drops from trainers you beat, and more treasure when fishing.
+* The **spawn boost** only brings more of the Pokémon that can already spawn where you are. It never brings out Legendaries or Mythicals.
 
 ### ⭐ Trainer bonuses
 
-Some cards also carry a **trainer bonus**, the best kind there is:
+Some cards also carry a **trainer bonus** (shown with a ★ on the card), the best kind there is:
 
-| Trainer bonus | Most it can give |
-| --- | --- |
-| ✨ Shiny chance | 1.5× better odds |
-| 🎯 Catch rate | 1.25× better |
-| 📈 EXP | 1.5× more |
+| Trainer bonus on your binder | Most that counts | What that means |
+| --- | --- | --- |
+| ✨ Shiny Chance | **+50%** | Up to 1.5 times better shiny odds |
+| 🎯 Catch Boost | **+25%** | Up to 1.25 times better catch rate |
+| 📈 Exp Boost | **+50%** | Up to 1.5 times more EXP |
 
 * Any card graded **9 or 10** has a **50%** chance to gain a trainer bonus.
 * Legendary, Mythic and shiny cards have a **5%** chance to come with one straight away.
