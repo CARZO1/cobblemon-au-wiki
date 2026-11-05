@@ -138,7 +138,7 @@ Tera raids also drop extra Tera Shards.
 ### 🎟️ Vouchers
 
 * **Cash and BP Vouchers:** type **/redeem** to cash in every Cash and BP Voucher in your inventory at once.
-* **Catch Combo vouchers:** add +2 or +5 to your current catch combo, the Pokémon you're chaining. Type **/redeem combo** while you're chaining. Your biggest voucher goes first, and it's only used up if the boost works.
+* **Catch Combo vouchers:** add +2 or +5 to your current catch combo, the Pokémon you're chaining. Type **/redeem combo** while you're chaining. Your biggest voucher goes first, and it's only used up if the boost works. They can't boost a combo on a Legendary, Mythical, Ultra Beast or Paradox Pokémon.
 
 ***
 

@@ -38,17 +38,17 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_mankey.png" alt="Radiant Mankey, Primeape, Annihilape"><figcaption><p>Mankey, Primeape, Annihilape</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/radiants/radiant_poliwhirl.png" alt="Radiant Poliwhirl, Poliwrath, Politoed"><figcaption><p>Poliwhirl, Poliwrath, Politoed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/radiants/radiant_poliwhirl.png" alt="Radiant Poliwhirl, Poliwrath"><figcaption><p>Poliwhirl, Poliwrath</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_abra.png" alt="Radiant Abra, Kadabra, Alakazam, Mega Alakazam"><figcaption><p>Abra, Kadabra, Alakazam, Mega Alakazam</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_bellsprout.png" alt="Radiant Bellsprout, Weepinbell, Victreebel, Mega Victreebel"><figcaption><p>Bellsprout, Weepinbell, Victreebel, Mega Victreebel</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/radiants/radiant_slowpoke.png" alt="Radiant Slowpoke, Slowbro, Mega Galarian Slowbro Y, Slowking, Galarian Slowpoke, Galarian Slowbro, Galarian Slowking"><figcaption><p>Slowpoke, Slowbro, Mega Galarian Slowbro Y, Slowking, Galarian Slowpoke, Galarian Slowbro, Galarian Slowking</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/radiants/radiant_slowbro.png" alt="Radiant Slowbro, Mega Galarian Slowbro Y, Slowking, Galarian Slowbro, Galarian Slowking"><figcaption><p>Slowbro, Mega Galarian Slowbro Y, Slowking, Galarian Slowbro, Galarian Slowking</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_doduo.png" alt="Radiant Doduo, Dodrio"><figcaption><p>Doduo, Dodrio</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/radiants/radiant_gastly.png" alt="Radiant Gastly, Haunter, Gengar"><figcaption><p>Gastly, Haunter, Gengar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/radiants/radiant_gastly.png" alt="Radiant Gastly, Haunter, Gengar, Mega Gengar"><figcaption><p>Gastly, Haunter, Gengar, Mega Gengar</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_lickitung.png" alt="Radiant Lickitung, Lickilicky"><figcaption><p>Lickitung, Lickilicky</p></figcaption></figure>
 
@@ -88,7 +88,7 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 {% tab title="Gen 3" %}
 **Hoenn**
 
-<figure><img src="../.gitbook/assets/radiants/radiant_treecko.png" alt="Radiant Treecko, Grovyle, Sceptile"><figcaption><p>Treecko, Grovyle, Sceptile</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/radiants/radiant_grovyle.png" alt="Radiant Grovyle, Sceptile"><figcaption><p>Grovyle, Sceptile</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_torchic.png" alt="Radiant Torchic, Combusken, Blaziken"><figcaption><p>Torchic, Combusken, Blaziken</p></figcaption></figure>
 
@@ -98,7 +98,7 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_whismur.png" alt="Radiant Whismur, Loudred, Exploud"><figcaption><p>Whismur, Loudred, Exploud</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/radiants/radiant_skitty.png" alt="Radiant Skitty, Delcatty"><figcaption><p>Skitty, Delcatty</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/radiants/radiant_delcatty.png" alt="Radiant Delcatty"><figcaption><p>Delcatty</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_sableye.png" alt="Radiant Sableye, Mega Sableye"><figcaption><p>Sableye, Mega Sableye</p></figcaption></figure>
 
@@ -139,11 +139,7 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_gible.png" alt="Radiant Gible, Gabite, Garchomp"><figcaption><p>Gible, Gabite, Garchomp</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/radiants/radiant_lucario.png" alt="Radiant Lucario"><figcaption><p>Lucario</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/radiants/radiant_skorupi.png" alt="Radiant Skorupi, Drapion"><figcaption><p>Skorupi, Drapion</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/radiants/radiant_snover.png" alt="Radiant Snover, Abomasnow, Mega Abomasnow"><figcaption><p>Snover, Abomasnow, Mega Abomasnow</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/radiants/radiant_abomasnow.png" alt="Radiant Mega Abomasnow"><figcaption><p>Mega Abomasnow</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_rotom.png" alt="Radiant Rotom, Fan Rotom, Frost Rotom, Heat Rotom, Mow Rotom, Wash Rotom"><figcaption><p>Rotom, Fan Rotom, Frost Rotom, Heat Rotom, Mow Rotom, Wash Rotom</p></figcaption></figure>
 
@@ -155,8 +151,6 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 **Unova**
 
 <figure><img src="../.gitbook/assets/radiants/radiant_patrat.png" alt="Radiant Patrat, Watchog"><figcaption><p>Patrat, Watchog</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/radiants/radiant_sewaddle.png" alt="Radiant Sewaddle, Swadloon, Leavanny"><figcaption><p>Sewaddle, Swadloon, Leavanny</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_cottonee.png" alt="Radiant Cottonee, Whimsicott"><figcaption><p>Cottonee, Whimsicott</p></figcaption></figure>
 
@@ -187,8 +181,6 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 {% tab title="Gen 6" %}
 **Kalos**
 
-<figure><img src="../.gitbook/assets/radiants/radiant_helioptile.png" alt="Radiant Helioptile, Heliolisk"><figcaption><p>Helioptile, Heliolisk</p></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/radiants/radiant_klefki.png" alt="Radiant Klefki"><figcaption><p>Klefki</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_noibat.png" alt="Radiant Noibat, Noivern"><figcaption><p>Noibat, Noivern</p></figcaption></figure>
@@ -215,11 +207,13 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_rookidee.png" alt="Radiant Rookidee, Corvisquire, Corviknight"><figcaption><p>Rookidee, Corvisquire, Corviknight</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/radiants/radiant_applin.png" alt="Radiant Applin, Flapple, Appletun, Dipplin, Hydrapple"><figcaption><p>Applin, Flapple, Appletun, Dipplin, Hydrapple</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/radiants/radiant_flapple.png" alt="Radiant Flapple, Appletun, Dipplin, Hydrapple"><figcaption><p>Flapple, Appletun, Dipplin, Hydrapple</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_hatenna.png" alt="Radiant Hatenna, Hattrem, Hatterene"><figcaption><p>Hatenna, Hattrem, Hatterene</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_milcery.png" alt="Radiant Milcery, Alcremie"><figcaption><p>Milcery, Alcremie</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/radiants/radiant_duraludon.png" alt="Radiant Duraludon, Archaludon"><figcaption><p>Duraludon, Archaludon</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_dreepy.png" alt="Radiant Dreepy, Drakloak, Dragapult"><figcaption><p>Dreepy, Drakloak, Dragapult</p></figcaption></figure>
 
@@ -246,13 +240,11 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_gimmighoul.png" alt="Radiant Gimmighoul, Gholdengo, Gimmighoul (Roaming)"><figcaption><p>Gimmighoul, Gholdengo, Gimmighoul (Roaming)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/radiants/radiant_archaludon.png" alt="Radiant Archaludon"><figcaption><p>Archaludon</p></figcaption></figure>
-
 {% endtab %}
 
 {% endtabs %}
 
 {% hint style="warning" %}
-**Not pictured yet:** Zubat, Golbat, Crobat, Poliwag, Mega Galarian Slowbro, Mega Slowbro, Mega Sceptile, Mega Blaziken, Mega Swampert, Mega Aggron, Bidoof, Darmanitan (Zen), Vanillite, Vanillish, Vanilluxe. These can still be Radiant, but their Radiant colours don't display properly at the moment, so there's no picture of them yet.
+**Not pictured yet:** Zubat, Golbat, Crobat, Poliwag, Politoed, Mega Galarian Slowbro, Mega Slowbro, Treecko, Mega Sceptile, Mega Blaziken, Mega Swampert, Skitty, Mega Aggron, Bidoof, Riolu, Lucario, Skorupi, Drapion, Snover, Abomasnow, Sewaddle, Swadloon, Leavanny, Darmanitan (Zen), Vanillite, Vanillish, Vanilluxe, Helioptile, Heliolisk, Applin. These can still be Radiant, but their Radiant colours don't display properly at the moment, so there's no picture of them yet.
 {% endhint %}
 <!-- GENERATED END -->
