@@ -31,6 +31,7 @@
 
 * [Legendary & Mythical spawns](pokemon/legendary-spawns.md)
   * [How to boost your chances](pokemon/legendary-perfumes.md)
+* [Legendary Stone Shards](pokemon/legendary-stone-shards.md)
 * [Catch combos](pokemon/catch-combos.md)
 * [Alphas](pokemon/alphas.md)
 * [Radiants](pokemon/radiants.md)

@@ -3,7 +3,7 @@ description: The hardest raids on the server, with a new boss every 2 weeks.
 ---
 
 <!-- Sources: owner (a new boss rotates in every 2 weeks; Raid Key Shop is in front of the 7 star raid building on the Hub; keys are once per player per boss, permanently; keep the page generic, no per-boss details, 24 Oct),
-network/_upload/{hub,survival}/openloader-1.8/cobblemonau_event_raid.zip (7 star boss scripts: shields, stat wipes, Tera/Mega phase changes, timers; pouch loot), network/_upload/{hub,survival}/config/cobblemonraiddens/tier_seven.json5 (4 players, 1 Pokemon, 1 life), blacklist.json5 (banned moves/abilities),
+network/_upload/{hub,survival}/openloader-1.8/cobblemonau_event_raid.zip (7 star boss scripts: shields, stat wipes, Tera/Mega phase changes, timers; pouch loot, rare drops added 9 Nov 2026 by dev/tools/build_t7_loot.py), network/_upload/{hub,survival}/config/cobblemonraiddens/tier_seven.json5 (4 players, 1 Pokemon, 1 life), blacklist.json5 (banned moves/abilities),
 raid rules config (Shadow ban, Mega stripped from rewards), network/_upload/hub/config/skiesguis/guis/tier_7_raid_key*.json (key shop, one per player, $50,000). -->
 
 # Seven Star Raids
@@ -99,7 +99,27 @@ Every player on a winning team gets a **Raid Pouch**. Right-click it to open. Po
 * a stack of **Tera Shards**
 * bonus rolls that can include **Catching Charms**
 
+On top of that, every pouch rolls for these:
+
+| Reward | Chance |
+| --- | --- |
+| 🃏 Trading card (Rare, Epic or Legendary) | 75% |
+| 🧢 Silver Bottle Cap | 3% each |
+| ✨ Shining Silver Bottle Cap | 1% each |
+| 🍎 Enchanted Golden Apple | 10% |
+| 💎 Blank Mega Stone | 10% |
+| 🔑 Keystone | 6% |
+| 🌟 Shiny Incense | 6% |
+| 🟣 Master Ball | 4% |
+| 🛡️ Armoury Crate key | 2% |
+| 🏆 10 BP Voucher | 20% |
+| 🔗 Catch Combo +5 voucher | 3% |
+
+The BP and Catch Combo vouchers share one roll, so you get at most one of them per pouch. Type **/redeem** for BP Vouchers and **/redeem combo** for Catch Combo vouchers (see [Raid Dens](../network/raid-dens.md#vouchers)).
+
 If you catch the boss, it comes in its normal form. A Mega Evolved boss won't stay Mega.
+
+💎 Want a 7 star raid of your own? Fill a [Legendary Stone Shard](../pokemon/legendary-stone-shards.md) with evolution stones to summon one.
 
 ***
 

@@ -128,6 +128,7 @@ On top of that, every pouch rolls for these:
 | 🛡️ Armoury Crate key | | | | | | 1% |
 | 🗝️ Mega Stone Crate key | | | | | | 3% |
 | 💠 Stellar Tera Shards | | | | | | 2% |
+| 🔮 [Legendary Stone Shard](../pokemon/legendary-stone-shards.md) | | | | | | 0.01% |
 
 On 4 to 6 star raids, Cash, BP and Catch Combo vouchers share one roll, so you get at most one of them per pouch.
 
