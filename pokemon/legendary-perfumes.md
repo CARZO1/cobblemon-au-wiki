@@ -2,7 +2,7 @@
 description: Use a Legendary or Mythical Perfume to greatly increase your odds of drawing one out near you.
 ---
 
-<!-- Sources: network/_upload/{hub,survival}/config/legendperfume.json defaults (350k / 600k since 8 Nov 2026, were 250k / 400k; 30 min, grace 5 min, windows every 2 min),
+<!-- Sources: network/_upload/{hub,survival}/config/legendperfume.json defaults (250k / 500k since 9 Nov 2026; 350k / 600k on 8 Nov, 250k / 400k before; 30 min, grace 5 min, windows every 2 min),
 dev/legendperfume/src (one perfume at a time, kept on death, follows between servers, restored if removed early, blocked while data loads after a server switch,
 target must have a spawn entry where the player stands, player messages), network/_upload/hub/openloader-1.8/ATM x MSD [4.0].zip (where mythicals spawn).
 Owner rule: no chance percentages on the item or here ("greatly increases"). Owner 24 Oct: seller is in the End PokéMart (End = 4 badges of one region); page nested under Legendary & Mythical spawns as "How to boost your chances". -->
@@ -21,8 +21,8 @@ Both are sold by the perfume seller at the **PokéMart in the End** on Survival.
 
 | Perfume | Price |
 | --- | --- |
-| 🟡 **Legendary Perfume** | $350,000 |
-| 🟣 **Mythical Perfume** | $600,000 |
+| 🟡 **Legendary Perfume** | $250,000 |
+| 🟣 **Mythical Perfume** | $500,000 |
 
 Right-click it to use it.
 
