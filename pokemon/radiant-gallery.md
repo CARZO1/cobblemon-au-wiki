@@ -68,6 +68,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_dratini.png" alt="Radiant Dratini, Dragonair, Dragonite, Mega Dragonite"><figcaption><p>Dratini, Dragonair, Dragonite, Mega Dragonite</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/radiants/radiant_mewtwo.png" alt="Radiant Mewtwo, Mega Mewtwo X, Mega Mewtwo Y"><figcaption><p>Mewtwo, Mega Mewtwo X, Mega Mewtwo Y</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/radiants/radiant_mew.png" alt="Radiant Mew"><figcaption><p>Mew</p></figcaption></figure>
 
 {% endtab %}
@@ -117,6 +119,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 <figure><img src="../.gitbook/assets/radiants/radiant_minun.png" alt="Radiant Minun"><figcaption><p>Minun</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_wailmer.png" alt="Radiant Wailmer, Wailord"><figcaption><p>Wailmer, Wailord</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/radiants/radiant_swablu.png" alt="Radiant Swablu, Altaria, Mega Altaria"><figcaption><p>Swablu, Altaria, Mega Altaria</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_anorith.png" alt="Radiant Anorith, Armaldo"><figcaption><p>Anorith, Armaldo</p></figcaption></figure>
 
@@ -248,6 +252,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_cetoddle.png" alt="Radiant Cetoddle, Cetitan"><figcaption><p>Cetoddle, Cetitan</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/radiants/radiant_kingambit.png" alt="Radiant Halloween Kingambit"><figcaption><p>Halloween Kingambit</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/radiants/radiant_ironthorns.png" alt="Radiant Iron Thorns"><figcaption><p>Iron Thorns</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_gimmighoul.png" alt="Radiant Gimmighoul, Gholdengo, Gimmighoul (Roaming)"><figcaption><p>Gimmighoul, Gholdengo, Gimmighoul (Roaming)</p></figcaption></figure>
@@ -261,6 +267,6 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 {% endtabs %}
 
 {% hint style="warning" %}
-**Not pictured yet:** Zubat, Golbat, Crobat, Poliwag, Politoed, Mega Galarian Slowbro, Mega Slowbro, Treecko, Mega Sceptile, Mega Blaziken, Mega Swampert, Skitty, Mega Aggron, Bidoof, Riolu, Lucario, Skorupi, Drapion, Snover, Abomasnow, Sewaddle, Swadloon, Leavanny, Darmanitan (Zen), Vanillite, Vanillish, Vanilluxe, Helioptile, Heliolisk, Applin. These can still be Radiant, but their Radiant colours don't display properly at the moment, so there's no picture of them yet.
+**Not pictured yet:** Mega Blastoise, Zubat, Golbat, Crobat, Poliwag, Politoed, Mega Galarian Slowbro, Mega Slowbro, Treecko, Mega Sceptile, Mega Blaziken, Mega Swampert, Skitty, Mega Aggron, Bidoof, Riolu, Lucario, Skorupi, Drapion, Snover, Abomasnow, Sewaddle, Swadloon, Leavanny, Darmanitan (Zen), Vanillite, Vanillish, Vanilluxe, Helioptile, Heliolisk, Applin. These can still be Radiant, but their Radiant colours don't display properly at the moment, so there's no picture of them yet.
 {% endhint %}
 <!-- GENERATED END -->

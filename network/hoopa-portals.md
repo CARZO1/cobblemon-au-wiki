@@ -9,7 +9,7 @@ distortion bans fireworks + mounting; dungeon_jump: no battles, mounting, elytra
 underground_treasure/*), Datapacks/cobblemonau_safari_tweaks (special fossils off; underground_final = 1 of 15 real fossils; giratina_core_trade = ball/EV/gender/IV/level crystals, no shiny reroll;
 giratina_unique core 0.10; red_chain = 9 cores; hiker trades; hooh_unique Rainbow Feather 0.25, one random participant since uniqueLootCommunism false). Bell Tower (5 Nov 2026): csboss/hooh.json (300-600 s, ribbon 0.1),
 hooh_common 1-3 Phoenix Ashes per participant, PhoenixAshesItem = bone meal on 3x3, RainbowFeatherRevive = either hand, not bypasses_invulnerability damage, regen/absorption/fire res; csboss_settings
-balmBossDamagePercent 5, dispenser 30 s. 15 Nov 2026: Paris (Hyperspace Kalos) + Megalopolis ON at weight 2 each (staged 11-13 Nov for the launch), timers 900 s (Ultra Space areas 300 s),
+balmBossDamagePercent 5, dispenser 30 s. 15 Nov 2026 (owner, live): underground 3, jump 2, distortion 2, Paris (Hyperspace Kalos) 1, Megalopolis 1 (staged 11-13 Nov for the launch), timers 900 s (Ultra Space areas 300 s),
 safarifee parisEntryFee 500 / megalopolisEntryFee 1000; hyperspace_clusters 1-5 star herds, no legendaries/UBs; auspicious balls 1-3 rolls over candy/hyperberry/ball/treasure, once per player;
 enableShardsClusters true (obstacle_shardcluster 1-3 megashards); quasartico_executive via build_quasartico_trades.py (40+4 Star Piece / 60+Phoenix Ashes / 64+Red Chain Core / 64+Rainbow Feather);
 Warp Ride nerfed in safari_tweaks (difficulty.json: UB pool 0-3% by portal rank, shiny 1/8000-1/2000, 0-3 perfect IVs); Ultra Space treasure tables (Recon armour ~0.5% a piece, UB items);
@@ -33,13 +33,11 @@ Catch Booster: Hiker 'large' 4 prism_l + 4 pale_l, Giratina 5% (build_catch_boos
 
 Each ring leads to one dungeon:
 
-| Destination | Chance |
-| --- | --- |
-| ⛏️ **Sinnoh Underground** | 3 in 9 |
-| 🏙️ **Hyperspace Kalos** | 2 in 9 |
-| 🛸 **Ultra Megalopolis** | 2 in 9 |
-| 🔔 **Bell Tower** | 1 in 9 |
-| 🌌 **Distortion World** | 1 in 9 |
+* ⛏️ **Sinnoh Underground**
+* 🔔 **Bell Tower**
+* 🌌 **Distortion World**
+* 🏙️ **Hyperspace Kalos**
+* 🛸 **Ultra Megalopolis**
 
 The only way into these dungeons is through one of these naturally spawning rings, so keep an eye out! 👀
 
