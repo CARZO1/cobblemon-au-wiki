@@ -68,7 +68,7 @@ Type `/warps` for a menu of every location, or use the shortcuts below.
 | 📜 **Quests** | Daily and weekly quests for money and crate keys | `/quest_hub` |
 | 🎁 **Crates** | Open the crate keys you earn | `/crates` |
 | 🎰 **Gacha Machines** | Spend Relic Coins on capsules | `/gacha` |
-| 💪 **EV Training Tower** | Train your Pokémon's EVs | `/ev_tower` |
+| 💪 **EV Training Tower** | Train your Pokémon's EVs and levels | `/ev_tower` |
 | 🏆 **Hall of Fame** | See who holds each region's Champion title | `/hall_of_fame` |
 | 🌿 **Safari Zone** | Catch Pokémon with Safari Balls | `/safari` |
 | 🏪 **Player Market** | Rent a plot and run your own shop | `/market` |

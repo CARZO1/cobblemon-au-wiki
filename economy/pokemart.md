@@ -60,7 +60,7 @@ Vitamins like Protein, Iron and Carbos, plus EV feathers, to raise your Pokémon
 
 ### 🫐 EV Berries
 
-Berries that lower EVs, for when you want to reset a spread. It buys back EV berries and Mochi too.
+Berries that lower EVs, for when you want to reset a spread. It also buys back EV berries, Mochi, EV Feathers and [Hyper Berries](../network/hoopa-portals.md#hyper-berries).
 
 ### 🏋️ EV Training Items
 

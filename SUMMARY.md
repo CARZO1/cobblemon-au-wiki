@@ -33,6 +33,7 @@
   * [How to boost your chances](pokemon/legendary-perfumes.md)
 * [Legendary Stone Shards](pokemon/legendary-stone-shards.md)
 * [Catch combos](pokemon/catch-combos.md)
+* [Catch Boosters](pokemon/catch-boosters.md)
 * [Alphas](pokemon/alphas.md)
 * [Radiants](pokemon/radiants.md)
   * [Every Radiant](pokemon/radiant-gallery.md)
@@ -67,6 +68,7 @@
 ## 🎉 Events
 
 * [Seven Star Raids](events/seven-star-raids.md)
+* [Spotlight Hour](events/spotlight-hour.md)
 * [Tournaments](events/tournaments.md)
 * [Build Competitions](events/build-competitions.md)
 * [Private Auctions](events/private-auctions.md)

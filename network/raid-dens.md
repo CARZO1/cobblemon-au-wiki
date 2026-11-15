@@ -128,9 +128,11 @@ On top of that, every pouch rolls for these:
 | 🛡️ Armoury Crate key | | | | | | 1% |
 | 🗝️ Mega Stone Crate key | | | | | | 3% |
 | 💠 Stellar Tera Shards | | | | | | 2% |
+| 🎯 [Catch Booster](../pokemon/catch-boosters.md) | | | | | | 3% |
 | 🔮 [Legendary Stone Shard](../pokemon/legendary-stone-shards.md) | | | | | | 0.01% |
+| 🪨 Evolution stones (one random type) | 1 to 2 | 1 to 2 | 1 to 2 | 3 to 4 | 3 to 4 | 5 to 6 |
 
-On 4 to 6 star raids, Cash, BP and Catch Combo vouchers share one roll, so you get at most one of them per pouch.
+On 4 to 6 star raids, Cash, BP and Catch Combo vouchers share one roll, so you get at most one of them per pouch. Every pouch also has some evolution stones, all of one random type, handy for filling a [Legendary Stone Shard](../pokemon/legendary-stone-shards.md).
 
 Tera raids also drop extra Tera Shards.
 

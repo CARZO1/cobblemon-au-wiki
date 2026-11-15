@@ -2,7 +2,8 @@
 description: A fresh world for mining and gathering, reset every week.
 ---
 
-<!-- Sources: network/_upload/hub/openloader-1.8/cobblemonau_resourceworld.zip (12 areas, 12,000 x 12,000 box, 5 min + 1 min warnings, evict to Hub, "opens at 12pm"), network/_upload/hub/config/skiesguis/guis/warp_menu.json ("Resets Saturday midnight", "Closed overnight after each reset"), _archive/network-hub-1.7.3-mirror/config/commandaliases/resource.json ("Opens Sunday 12pm AEST"), network/_upload/hub/config/flan (no claims in hub overworld), test-server/config/blanketrtp/blanketrtp/config.jsonc (rtp radius 5000, glide from Y 150). -->
+<!-- Sources: network/_upload/hub/openloader-1.8/cobblemonau_resourceworld.zip (12 areas, 12,000 x 12,000 box, 5 min + 1 min warnings, evict to Hub, "opens at 12pm"), network/_upload/hub/config/skiesguis/guis/warp_menu.json ("Resets Saturday midnight", "Closed overnight after each reset"), _archive/network-hub-1.7.3-mirror/config/commandaliases/resource.json ("Opens Sunday 12pm AEST"), network/_upload/hub/config/flan (no claims in hub overworld), test-server/config/blanketrtp/blanketrtp/config.jsonc (rtp radius 5000, glide from Y 150). Nether border (from the 16 Nov 2026 reset, owner): dev/tools/build_nether_border.py -> nether_guard_N: 1,500 x 1,500 box = the live corner's
+overworld box / 8 (like portals), bounce = spreadplayers back to the middle, Hub if that fails; nether_evict sends nether players to the Hub while the resource world is closed. -->
 
 # The Resource World
 
@@ -38,6 +39,20 @@ Type `/resource` from either server. You'll be dropped somewhere random in the c
 * You **can't claim land** here.
 * Wild Pokémon, Legendaries, Raid Dens and CobbleSafari portals all spawn here just like in the Survival overworld.
 * keepInventory is on, so you won't lose your items if you die.
+
+***
+
+## 🔥 The Nether
+
+Nether Portals you build in the Resource World take you to the Nether, which follows the Resource World's weekly reset:
+
+* The Nether area is **1,500 by 1,500 blocks**, lined up with the current Resource World area (portals link 8 to 1, like in vanilla). It moves to a new spot with every reset.
+* Walk past the edge and you'll be sent back to the middle of the area.
+* While the Resource World is **closed** overnight after a reset, the Nether is closed too. Anyone inside is sent to the Hub.
+
+{% hint style="warning" %}
+⚠️ Like the Resource World, the Nether area moves on every week. Don't leave anything you want to keep in there.
+{% endhint %}
 
 {% hint style="success" %}
 💡 Most gathering quests can be done in the Resource World, so it's a good place to tick off your dailies.

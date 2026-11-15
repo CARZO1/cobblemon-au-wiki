@@ -38,6 +38,7 @@ Mega Stones **can't be crafted**. Here's how to get them:
 | 🦣 **Alphas** | Every wild Alpha you knock out has a **1 in 5** chance to drop a random Mega Stone. See [Alphas](alphas.md). |
 | 🎁 **Mega Stone Crate** | Has every Mega Stone. Buy keys on the [store](https://cobblemon-au.craftingstore.net/category/545120) (the full prize list and odds are there too), or earn them in game. Open them at `/crates` on the Hub. |
 | 🔄 **Mega Stone Exchange** | On the Hub. Trade **6 Mega Stones** (any mix) or **6 Raw Mega Stones / Keystones** (any mix) for 1 Mega Stone Crate key. |
+| 💎 **Quasartico Executive** | In the Sinnoh Underground. Trade **Mega Shard Blocks** from Hyperspace Kalos, plus one rare item, for the Mega Stone you choose. See [Hoopa Portals](../network/hoopa-portals.md#the-quasartico-executive). |
 
 **You can earn Mega Stone Crate keys from:**
 

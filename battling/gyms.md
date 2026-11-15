@@ -15,7 +15,7 @@ network/_upload/{hub,survival}/config/skiesguis/guis/gyms_{kanto,johto,hoenn,sin
 
 ## 🗺️ Getting to the gyms
 
-Type `/gyms` to open the gym menu. Use the arrows to flip between regions, then click a gym to warp there. Gyms you haven't unlocked yet show a barrier.
+Type `/gyms` to open the gym menu. Use the arrows to flip between regions, then click a gym to warp there. Gyms you haven't unlocked yet show a barrier. On Survival, clicking a gym takes you straight to it on the Hub.
 
 * In each region you beat the gyms **in order**: Gym 2 unlocks after Gym 1, and so on.
 * The regions are separate, so you can work on several at once.
