@@ -46,7 +46,7 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_bellsprout.png" alt="Radiant Bellsprout, Weepinbell, Victreebel, Mega Victreebel"><figcaption><p>Bellsprout, Weepinbell, Victreebel, Mega Victreebel</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/radiants/radiant_slowpoke.png" alt="Radiant Slowpoke, Slowbro, Mega Galarian Slowbro Y, Slowking, Galarian Slowpoke, Galarian Slowbro, Galarian Slowking"><figcaption><p>Slowpoke, Slowbro, Mega Galarian Slowbro Y, Slowking, Galarian Slowpoke, Galarian Slowbro, Galarian Slowking</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/radiants/radiant_slowpoke.png" alt="Radiant Slowpoke, Slowbro, Slowking, Galarian Slowpoke, Galarian Slowbro, Mega Galarian Slowbro Y, Galarian Slowking"><figcaption><p>Slowpoke, Slowbro, Slowking, Galarian Slowpoke, Galarian Slowbro, Mega Galarian Slowbro Y, Galarian Slowking</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_doduo.png" alt="Radiant Doduo, Dodrio"><figcaption><p>Doduo, Dodrio</p></figcaption></figure>
 
@@ -212,6 +212,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 
 <figure><img src="../.gitbook/assets/radiants/radiant_mimikyu.png" alt="Radiant Mimikyu"><figcaption><p>Mimikyu</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/radiants/radiant_magearna.png" alt="Radiant Magearna, Mega Magearna, Original Color Magearna, Mega Original Color Magearna"><figcaption><p>Magearna, Mega Magearna, Original Color Magearna, Mega Original Color Magearna</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/radiants/radiant_marshadow.png" alt="Radiant Marshadow"><figcaption><p>Marshadow</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_meltan.png" alt="Radiant Meltan, Melmetal"><figcaption><p>Meltan, Melmetal</p></figcaption></figure>
@@ -228,6 +230,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 <figure><img src="../.gitbook/assets/radiants/radiant_hatenna.png" alt="Radiant Hatenna, Hattrem, Hatterene"><figcaption><p>Hatenna, Hattrem, Hatterene</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_milcery.png" alt="Radiant Milcery, Alcremie"><figcaption><p>Milcery, Alcremie</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/radiants/radiant_morpeko.png" alt="Radiant Morpeko, Morpeko (Hangry)"><figcaption><p>Morpeko, Morpeko (Hangry)</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_duraludon.png" alt="Radiant Duraludon, Archaludon"><figcaption><p>Duraludon, Archaludon</p></figcaption></figure>
 
@@ -261,6 +265,8 @@ Lots of other Pokémon can roll as Radiant as well, but they look the same as th
 <figure><img src="../.gitbook/assets/radiants/radiant_koraidon.png" alt="Radiant Koraidon"><figcaption><p>Koraidon</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/radiants/radiant_miraidon.png" alt="Radiant Miraidon"><figcaption><p>Miraidon</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/radiants/radiant_walkingwake.png" alt="Radiant Walking Wake"><figcaption><p>Walking Wake</p></figcaption></figure>
 
 {% endtab %}
 
