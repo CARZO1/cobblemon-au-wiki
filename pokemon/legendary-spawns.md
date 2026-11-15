@@ -63,7 +63,7 @@ Legendaries spawn on **Survival** (overworld, Nether and End) and in the **Resou
 | Heatran | Badlands, Volcanic, Basalt Deltas, Nether Wastes | 70 | 🌑 in Badlands. In Nether Wastes it spawns on lava below Y 127. |
 | Ho-Oh | Floral biomes, Plains | 70 | ☁️ 🌤️ |
 | Koraidon | Desert, any overworld | 60 to 80 | On the desert surface, or 🌑 underground below Y 0 anywhere (not the Deep Dark) |
-| Kubfu | Bamboo Jungle | 10 to 30 | 🌤️ |
+| Kubfu | Bamboo Jungle and beaches | 10 to 30 | 🌤️ |
 | Kyurem | Glacial biomes | 70 | ☁️ |
 | Landorus | Savanna | 50 to 70 | ☁️ 🚫🌧️ |
 | Latias | Any overworld | 65 | ☁️ Above Y 100 |
