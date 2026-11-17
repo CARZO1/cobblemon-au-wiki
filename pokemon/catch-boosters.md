@@ -2,48 +2,30 @@
 description: Catch Boosters double your catch rate for 30 minutes, just for you.
 ---
 
-<!-- Sources: dev/tools/build_catch_boost.py (14 Nov 2026): item = mega_showdown:booster_energy + custom_data {catch_boost:1b};
-/redeem takes one and sets the LuckPerms temp node cobblemonau.catchboost for 30m (accumulate, shared by hub + survival);
-cobblemonau_catch_boost.zip callback pokemon_catch_rate_calculated: catch rate x2 (capped 255) for the thrower only.
-Sources: raid tier 6 3% (build_raid_loot.py), vote crate weight 110 (~0.5%), Hiker 'large' 4 prism_l + 4 pale_l (2 uses),
-Giratina giratina_unique 5%. Owner 14 Nov 2026. -->
+<!-- Sources: dev/tools/build_catch_boost.py. /redeem gives 30 min of the hidden effect cobblesafari:capture_all_3
+(CobbleSafari encounter_boost_config capturePowerLevel3Multiplier 2.0, wild Pokemon only); action-bar timer from
+cobblemonau_catch_boost.zip; online time only; HuskSync carries it between servers; death restores it, milk ends it.
+Drops: raid tier 6 3%, vote crate ~1 in 200, Hiker 'large' 4 prism_l + 4 pale_l, Giratina 5%. -->
 
 # Catch Boosters
 
 {% hint style="info" %}
-<p align="center">A <strong>Catch Booster</strong> <strong>doubles your catch rate for 30 minutes</strong>. It only boosts your own throws, and it keeps working on both the Hub and Survival.</p>
+<p align="center">A <strong>Catch Booster</strong> <strong>doubles your catch rate for 30 minutes</strong>, just for you, on both the Hub and Survival.</p>
 {% endhint %}
 
 ***
 
 ## ✨ Using one
 
-{% stepper %}
-{% step %}
-### Have it in your inventory
+Have a **Catch Booster** (a glowing pink Booster Energy) in your inventory and type **`/redeem`**.
 
-A Catch Booster looks like a glowing pink **Booster Energy** called **Catch Booster**.
-{% endstep %}
+* Every Poké Ball you throw at a wild Pokémon has **double the catch rate** for **30 minutes**.
+* A **timer above your hotbar** shows how long you have left. It only counts down while you're online.
+* Using another one adds **30 more minutes**.
+* **Drinking milk ends your boost.** Dying doesn't.
 
-{% step %}
-### Type `/redeem`
-
-One Catch Booster is used up, and your boost starts straight away.
-{% endstep %}
-
-{% step %}
-### Go catching
-
-For the next **30 minutes**, every Poké Ball you throw has **double the catch rate**. Your boost carries on if you switch servers or log out.
-{% endstep %}
-{% endstepper %}
-
-{% hint style="success" %}
-💡 Using another Catch Booster while one is running adds **30 more minutes** on top.
-{% endhint %}
-
-{% hint style="warning" %}
-⚠️ The boost only works through `/redeem`. Giving a Catch Booster to a Pokémon to hold just makes it a normal Booster Energy.
+{% hint style="info" %}
+📊 The catch rate display on your screen still shows the normal rate. Your real chance is double that while your timer is running.
 {% endhint %}
 
 ***

@@ -88,7 +88,7 @@ Stone, bricks, deepslate and other building blocks. It also buys coal, ingots, d
 
 ### 🌿 Natural Materials
 
-Dirt, grass, sand, gravel, mud and other natural blocks.
+Dirt, grass, sand, gravel, mud, every kind of leaves, flowers and other natural blocks.
 
 ### 🎨 Decorator's Emporium
 
@@ -96,7 +96,7 @@ Glass, stained glass, terracotta and other decorative blocks.
 
 ### 🌾 Farm Materials
 
-Seeds, crops, apples and sugar cane to start a farm.
+Seeds, crops, apples and sugar cane to start a farm, plus sponges.
 
 ### 💡 Lighting & Utilities
 
