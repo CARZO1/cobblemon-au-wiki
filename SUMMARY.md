@@ -68,6 +68,7 @@
 ## 🎉 Events
 
 * [Seven Star Raids](events/seven-star-raids.md)
+* [World Bosses](events/world-bosses.md)
 * [Spotlight Hour](events/spotlight-hour.md)
 * [Tournaments](events/tournaments.md)
 * [Build Competitions](events/build-competitions.md)

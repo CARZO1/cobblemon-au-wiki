@@ -4,7 +4,7 @@ description: Every command you can use as a player, grouped by what it's for.
 
 <!-- Sources: network/_upload/{hub,survival}/config/commandaliases/*.json and the 1.7.3 mirror alias sets (_archive/network-*-1.7.3-mirror/config/commandaliases), staff permission gates (gated commands left out),
 _archive/live-server/mods/luckperms/luckperms-2026-08-21-21-07.json.gz (default group: EC homes/tpa, poketrade, pokeshout, kits.claim.starter),
-dev/{wager,champion,rankedrewards,nuzlocke,gogyms,shops,quests,combocmd,dexgenrewards,pokehunt,banlist,pokemorph-standalone} command classes (syntax + level-0 nodes),
+dev/{wager,champion,rankedrewards,nuzlocke,gogyms,shops,quests,combocmd,dexgenrewards,pokehunt,banlist,pokemorph-standalone,worldboss} command classes (syntax + level-0 nodes),
 cobblemonchallenge-fabric-2.5.0.jar, cobblemon-economy-0.0.19.jar, pvptoggle-1.4.0 (default true).
 Live mod lists: Downloads/{hub,survival} logs/logs/latest.log (14-15 Oct 2026).
 Owner 15 Oct: /pwiki, /hat, /casual free for everyone; /pc Rival and up; /boosters and /back are staff only (left out). -->
@@ -103,6 +103,11 @@ Your claim tool is the **golden hoe** from the Starter kit. See the [FAQ](gettin
 | `/bt_info` | How the Battle Tower works | Survival |
 | `/bt_top [singles\|doubles]` | Battle Tower leaderboard | Survival |
 | `/nuzlocke` | The weekly [Nuzlocke Challenge](battling/nuzlocke.md) | Hub |
+| `/worldboss` | Your [World Boss](events/world-bosses.md) status: tickets, bosses beaten and any wait | Hub |
+| `/worldboss trial` | Open your Mt. Coronet trial journal | Hub |
+| `/worldboss ticket buy [amount]` | Buy World Boss tickets | Hub |
+| `/worldboss ready` / `unready` | Join or leave the lobby for the next World Boss fight (on the summit of Mt. Coronet) | Hub |
+| `/worldboss leave` | Leave a World Boss fight you're in | Hub |
 | `/bans` | See what's banned in gym battles and the Battle Tower | Both |
 | `/pvp` | Turn player-vs-player combat on or off (off by default) | Both |
 
