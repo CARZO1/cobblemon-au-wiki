@@ -105,8 +105,10 @@ Your claim tool is the **golden hoe** from the Starter kit. See the [FAQ](gettin
 | `/nuzlocke` | The weekly [Nuzlocke Challenge](battling/nuzlocke.md) | Hub |
 | `/worldboss` | Your [World Boss](events/world-bosses.md) status: tickets, bosses beaten and any wait | Hub |
 | `/worldboss trial` | Open your Mt. Coronet trial journal | Hub |
-| `/worldboss ticket buy [amount]` | Buy World Boss tickets | Hub |
+| `/worldboss ticket` | How many World Boss tickets you're carrying | Hub |
+| `/worldboss ticket buy [amount]` | Buy World Boss tickets (up to 8 at a time) | Hub |
 | `/worldboss ready` / `unready` | Join or leave the lobby for the next World Boss fight (on the summit of Mt. Coronet) | Hub |
+| `/worldboss join` | Go to the Spear Pillar lobby from the summit, when it's open | Hub |
 | `/worldboss leave` | Leave a World Boss fight you're in | Hub |
 | `/bans` | See what's banned in gym battles and the Battle Tower | Both |
 | `/pvp` | Turn player-vs-player combat on or off (off by default) | Both |

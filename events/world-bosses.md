@@ -211,10 +211,14 @@ The **top 3 players by damage** also get **$25,000**, a [Catch Booster](../pokem
 | --- | --- |
 | `/worldboss` | Your World Boss status: tickets, Cyrus, bosses you've beaten and any wait |
 | `/worldboss trial` | Open your Mt. Coronet journal |
-| `/worldboss ticket buy [amount]` | Buy tickets ($75,000 each) |
+| `/worldboss ticket` | How many tickets you're carrying, and whether you can buy more |
+| `/worldboss ticket buy [amount]` | Buy tickets ($75,000 each, up to 8 at a time) |
 | `/worldboss ready` | Ready up for the next fight (on the summit) |
 | `/worldboss unready` | Leave the lobby before the fight starts |
+| `/worldboss join` | Go to the Spear Pillar lobby from the summit, when it's open |
 | `/worldboss leave` | Leave a fight you're in |
+
+The commanders and Cyrus don't have a command: right-click them to battle.
 
 {% hint style="info" %}
 💡 Before you ready up: put on your best enchanted armour, bring a sharp sword and some food, and agree with your team on who goes for the crystals when a barrier goes up.
