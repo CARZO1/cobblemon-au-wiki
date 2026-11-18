@@ -2,7 +2,7 @@
 description: Catch Boosters double your catch rate for 30 minutes, just for you.
 ---
 
-<!-- Sources: dev/tools/build_catch_boost.py. /redeem gives 30 min of the hidden effect cobblesafari:capture_all_3
+<!-- Sources: dev/tools/build_catch_boost.py. right-click (food component -> consume_item advancement) or /redeem gives 30 min of the hidden effect cobblesafari:capture_all_3
 (CobbleSafari encounter_boost_config capturePowerLevel3Multiplier 2.0, wild Pokemon only); action-bar timer from
 cobblemonau_catch_boost.zip; online time only; HuskSync carries it between servers; death restores it, milk ends it.
 Drops: raid tier 6 3%, vote crate ~1 in 200, Hiker 'large' 4 prism_l + 4 pale_l, Giratina 5%. -->
@@ -17,7 +17,7 @@ Drops: raid tier 6 3%, vote crate ~1 in 200, Hiker 'large' 4 prism_l + 4 pale_l,
 
 ## ✨ Using one
 
-Have a **Catch Booster** (a glowing pink Booster Energy) in your inventory and type **`/redeem`**.
+**Right-click** a **Catch Booster** (a glowing pink Booster Energy) to use it.
 
 * Every Poké Ball you throw at a wild Pokémon has **double the catch rate** for **30 minutes**.
 * A **timer above your hotbar** shows how long you have left. It only counts down while you're online.
